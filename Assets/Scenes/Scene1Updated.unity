@@ -88785,10 +88785,10 @@ PrefabInstance:
       addedObject: {fileID: 2082198707}
     - targetCorrespondingSourceObject: {fileID: 100048, guid: 42bb7bcc3c47f43418c9ccb3b8dde8ef, type: 3}
       insertIndex: -1
-      addedObject: {fileID: 2082198706}
+      addedObject: {fileID: 2082198705}
     - targetCorrespondingSourceObject: {fileID: 100048, guid: 42bb7bcc3c47f43418c9ccb3b8dde8ef, type: 3}
       insertIndex: -1
-      addedObject: {fileID: 2082198705}
+      addedObject: {fileID: 2082198710}
   m_SourcePrefab: {fileID: 100100000, guid: 42bb7bcc3c47f43418c9ccb3b8dde8ef, type: 3}
 --- !u!1 &2082198704 stripped
 GameObject:
@@ -88860,28 +88860,6 @@ MonoBehaviour:
     m_PersistentCalls:
       m_Calls: []
   lockHandOnGrab: 0
---- !u!64 &2082198706
-MeshCollider:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 2082198704}
-  m_Material: {fileID: 0}
-  m_IncludeLayers:
-    serializedVersion: 2
-    m_Bits: 0
-  m_ExcludeLayers:
-    serializedVersion: 2
-    m_Bits: 0
-  m_LayerOverridePriority: 0
-  m_IsTrigger: 0
-  m_ProvidesContacts: 0
-  m_Enabled: 1
-  serializedVersion: 5
-  m_Convex: 1
-  m_CookingOptions: 30
-  m_Mesh: {fileID: 0}
 --- !u!54 &2082198707
 Rigidbody:
   m_ObjectHideFlags: 0
@@ -88909,6 +88887,29 @@ Rigidbody:
   m_Interpolate: 0
   m_Constraints: 0
   m_CollisionDetection: 3
+--- !u!136 &2082198710
+CapsuleCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2082198704}
+  m_Material: {fileID: 0}
+  m_IncludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_ExcludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_LayerOverridePriority: 0
+  m_IsTrigger: 0
+  m_ProvidesContacts: 0
+  m_Enabled: 1
+  serializedVersion: 2
+  m_Radius: 0.25
+  m_Height: 0.6
+  m_Direction: 1
+  m_Center: {x: 0, y: 0.33, z: 0}
 --- !u!1 &2087382378 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: 8341255337186939984, guid: 55631b7bb862a4d928eaf84c9f939de0, type: 3}
