@@ -16,7 +16,7 @@ public class cubeStart : MonoBehaviour
         {
             timer += Time.deltaTime;
             dark.color = Color.Lerp(dark.color, Color.black,timer/3f);
-            if(timer >=3)
+            if(timer >= 3)
             {
                 SceneManager.LoadScene(1);
             }

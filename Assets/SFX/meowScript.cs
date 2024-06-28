@@ -22,7 +22,7 @@ public class meowScript : MonoBehaviour
         timer -= Time.deltaTime;
         if(timer < 0)
         {
-            timer = Random.Range(3, 6);
+            timer = Random.Range(3, 5);
             meow.pitch = Random.Range(0.75f, 1.25f);
             meow.Play();
         }
