@@ -8,6 +8,7 @@ public class meowScript : MonoBehaviour
     private float timer;
     private AudioSource meow;
     public GameObject cat;
+    public GameObject door;
 
     // Start is called before the first frame update
     void Start()
@@ -31,6 +32,7 @@ public class meowScript : MonoBehaviour
     {
         if(other.tag == "Carrier")
         {
+            door.SetActive(false);
             cat.SetActive(true);
             gameObject.SetActive(false);
         }
