@@ -6,10 +6,15 @@ using TMPro;
 public class timer : MonoBehaviour
 {
 
-    private float timeLeft = 600;
+    private float timeLeft = 180;//600;
     private TextMeshProUGUI timeText;
     private int mins;
     private int sec;
+
+    public AudioSource radio;
+    public GameObject radioAlert;
+    public AudioSource grandfatherClock;
+    private bool alert = false;
 
     // Start is called before the first frame update
     void Start()
@@ -24,6 +29,13 @@ public class timer : MonoBehaviour
         if(timeLeft <= 120)
         {
             timeText.color = Color.red;
+            if (!alert)
+            {
+                alert = true;
+                radio.enabled = false;
+                radioAlert.SetActive(true);
+                grandfatherClock.Play();
+            }
         }
         if (timeLeft < 0)
         {
