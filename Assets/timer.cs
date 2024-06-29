@@ -5,8 +5,8 @@ using TMPro;
 
 public class timer : MonoBehaviour
 {
-
-    private float timeLeft = 180;//600;
+    public int timeLimit = 10;
+    private float timeLeft = 600;
     private TextMeshProUGUI timeText;
     private int mins;
     private int sec;
@@ -15,10 +15,14 @@ public class timer : MonoBehaviour
     public GameObject radioAlert;
     public AudioSource grandfatherClock;
     private bool alert = false;
+    private bool end = false;
+
+    public GameObject fader;
 
     // Start is called before the first frame update
     void Start()
     {
+        timeLeft = timeLimit * 60;
         timeText = GetComponent<TextMeshProUGUI>();
     }
 
@@ -40,6 +44,12 @@ public class timer : MonoBehaviour
         if (timeLeft < 0)
         {
             timeText.text = "Time\'s up!";
+            if(timeLeft < -10 && !end)
+            {
+                fader.SetActive(true);
+                fader.GetComponent<gameOver>().win = false;
+                end = true;
+            }
         }
         else
         {
