@@ -75753,7 +75753,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: ccfa89e0af1f87a4e92af78e6b511233, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  timeLimit: 5
+  timeLimit: 10
   radio: {fileID: 543683461}
   radioAlert: {fileID: 2123836526}
   grandfatherClock: {fileID: 1298981899}
