@@ -18726,9 +18726,6 @@ PrefabInstance:
       addedObject: {fileID: 1880326901}
     - targetCorrespondingSourceObject: {fileID: 868521138558046649, guid: ace3a1874572a4c2b8746bbd1497ae82, type: 3}
       insertIndex: -1
-      addedObject: {fileID: 1880326904}
-    - targetCorrespondingSourceObject: {fileID: 868521138558046649, guid: ace3a1874572a4c2b8746bbd1497ae82, type: 3}
-      insertIndex: -1
       addedObject: {fileID: 1880326912}
     - targetCorrespondingSourceObject: {fileID: 868521138558046649, guid: ace3a1874572a4c2b8746bbd1497ae82, type: 3}
       insertIndex: -1
@@ -19761,6 +19758,7 @@ GameObject:
   - component: {fileID: 335259055}
   - component: {fileID: 335259057}
   - component: {fileID: 335259056}
+  - component: {fileID: 335259058}
   m_Layer: 0
   m_Name: Text (TMP)
   m_TagString: Untagged
@@ -19922,6 +19920,27 @@ MeshRenderer:
   m_SortingLayer: 0
   m_SortingOrder: 0
   m_AdditionalVertexStreams: {fileID: 0}
+--- !u!95 &335259058
+Animator:
+  serializedVersion: 5
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 335259054}
+  m_Enabled: 1
+  m_Avatar: {fileID: 0}
+  m_Controller: {fileID: 9100000, guid: 7fd4c28d4862d4738ad85f025d1cb4f1, type: 2}
+  m_CullingMode: 0
+  m_UpdateMode: 0
+  m_ApplyRootMotion: 0
+  m_LinearVelocityBlending: 0
+  m_StabilizeFeet: 0
+  m_WarningMessage: 
+  m_HasTransformHierarchy: 1
+  m_AllowConstantClipSamplingOptimization: 1
+  m_KeepAnimatorStateOnDisable: 0
+  m_WriteDefaultValuesOnDisable: 0
 --- !u!1001 &335915074
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -32553,8 +32572,8 @@ BoxCollider:
   m_ProvidesContacts: 0
   m_Enabled: 1
   serializedVersion: 3
-  m_Size: {x: 0.47083646, y: 0.02, z: 0.47083646}
-  m_Center: {x: 0, y: 0.03, z: 0}
+  m_Size: {x: 0.47083646, y: 0.05, z: 0.47083646}
+  m_Center: {x: 0, y: 0.05, z: 0}
 --- !u!65 &603065661
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -32595,7 +32614,7 @@ BoxCollider:
   m_ProvidesContacts: 0
   m_Enabled: 1
   serializedVersion: 3
-  m_Size: {x: 0.47083646, y: 0.47083646, z: 0.01}
+  m_Size: {x: 0.47083646, y: 0.47083646, z: 0.02}
   m_Center: {x: 0, y: 0.23707631, z: 0.22}
 --- !u!114 &603065664
 MonoBehaviour:
@@ -36810,9 +36829,6 @@ PrefabInstance:
       addedObject: {fileID: 703048842}
     - targetCorrespondingSourceObject: {fileID: 868521138558046649, guid: ace3a1874572a4c2b8746bbd1497ae82, type: 3}
       insertIndex: -1
-      addedObject: {fileID: 703048841}
-    - targetCorrespondingSourceObject: {fileID: 868521138558046649, guid: ace3a1874572a4c2b8746bbd1497ae82, type: 3}
-      insertIndex: -1
       addedObject: {fileID: 703048840}
     - targetCorrespondingSourceObject: {fileID: 868521138558046649, guid: ace3a1874572a4c2b8746bbd1497ae82, type: 3}
       insertIndex: -1
@@ -36851,7 +36867,7 @@ BoxCollider:
   m_ProvidesContacts: 0
   m_Enabled: 1
   serializedVersion: 3
-  m_Size: {x: 0.01, y: 0.47083646, z: 0.47083646}
+  m_Size: {x: 0.02, y: 0.47083646, z: 0.47083646}
   m_Center: {x: 0.23, y: 0.23707631, z: 0}
 --- !u!65 &703048837
 BoxCollider:
@@ -36872,7 +36888,7 @@ BoxCollider:
   m_ProvidesContacts: 0
   m_Enabled: 1
   serializedVersion: 3
-  m_Size: {x: 0.01, y: 0.47083646, z: 0.47083646}
+  m_Size: {x: 0.02, y: 0.47083646, z: 0.47083646}
   m_Center: {x: -0.22, y: 0.23707631, z: 0}
 --- !u!65 &703048838
 BoxCollider:
@@ -36893,8 +36909,8 @@ BoxCollider:
   m_ProvidesContacts: 0
   m_Enabled: 1
   serializedVersion: 3
-  m_Size: {x: 0.47083646, y: 0, z: 0.47083646}
-  m_Center: {x: 0, y: 0.03, z: 0}
+  m_Size: {x: 0.47083646, y: 0.05, z: 0.47083646}
+  m_Center: {x: 0, y: 0.05, z: 0}
 --- !u!65 &703048839
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -36914,7 +36930,7 @@ BoxCollider:
   m_ProvidesContacts: 0
   m_Enabled: 1
   serializedVersion: 3
-  m_Size: {x: 0.47083646, y: 0.47083646, z: 0}
+  m_Size: {x: 0.47083646, y: 0.47083646, z: 0.02}
   m_Center: {x: 0, y: 0.23707631, z: -0.22}
 --- !u!65 &703048840
 BoxCollider:
@@ -36935,29 +36951,8 @@ BoxCollider:
   m_ProvidesContacts: 0
   m_Enabled: 1
   serializedVersion: 3
-  m_Size: {x: 0.47083646, y: 0.47083646, z: 0}
+  m_Size: {x: 0.47083646, y: 0.47083646, z: 0.02}
   m_Center: {x: 0, y: 0.23707631, z: 0.22}
---- !u!65 &703048841
-BoxCollider:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 703048835}
-  m_Material: {fileID: 0}
-  m_IncludeLayers:
-    serializedVersion: 2
-    m_Bits: 0
-  m_ExcludeLayers:
-    serializedVersion: 2
-    m_Bits: 0
-  m_LayerOverridePriority: 0
-  m_IsTrigger: 1
-  m_ProvidesContacts: 0
-  m_Enabled: 1
-  serializedVersion: 3
-  m_Size: {x: 0.47083646, y: 0.47083646, z: 0.47083646}
-  m_Center: {x: 0, y: 0.23707631, z: 0}
 --- !u!114 &703048842
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -49817,6 +49812,102 @@ Transform:
   m_CorrespondingSourceObject: {fileID: 6050407054978649015, guid: a7315c2149bff4efa972e3b04ec3113d, type: 3}
   m_PrefabInstance: {fileID: 1754615729}
   m_PrefabAsset: {fileID: 0}
+--- !u!82 &978240269
+AudioSource:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 978240259}
+  m_Enabled: 1
+  serializedVersion: 4
+  OutputAudioMixerGroup: {fileID: 0}
+  m_audioClip: {fileID: 8300000, guid: 6e300b48b07734be28786829037fe025, type: 3}
+  m_PlayOnAwake: 1
+  m_Volume: 0.2
+  m_Pitch: 1
+  Loop: 0
+  Mute: 0
+  Spatialize: 0
+  SpatializePostEffects: 0
+  Priority: 128
+  DopplerLevel: 1
+  MinDistance: 0.3
+  MaxDistance: 2.7
+  Pan2D: 0
+  rolloffMode: 2
+  BypassEffects: 0
+  BypassListenerEffects: 0
+  BypassReverbZones: 0
+  rolloffCustomCurve:
+    serializedVersion: 2
+    m_Curve:
+    - serializedVersion: 3
+      time: 0.16454926
+      value: 0.42585373
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0
+      outWeight: 0
+    - serializedVersion: 3
+      time: 1
+      value: 0
+      inSlope: -1.1764706
+      outSlope: -1.1764706
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0
+      outWeight: 0
+    m_PreInfinity: 2
+    m_PostInfinity: 2
+    m_RotationOrder: 4
+  panLevelCustomCurve:
+    serializedVersion: 2
+    m_Curve:
+    - serializedVersion: 3
+      time: 0
+      value: 1
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0.33333334
+      outWeight: 0.33333334
+    m_PreInfinity: 2
+    m_PostInfinity: 2
+    m_RotationOrder: 4
+  spreadCustomCurve:
+    serializedVersion: 2
+    m_Curve:
+    - serializedVersion: 3
+      time: 0
+      value: 0
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0.33333334
+      outWeight: 0.33333334
+    m_PreInfinity: 2
+    m_PostInfinity: 2
+    m_RotationOrder: 4
+  reverbZoneMixCustomCurve:
+    serializedVersion: 2
+    m_Curve:
+    - serializedVersion: 3
+      time: 0
+      value: 0.661953
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0.33333334
+      outWeight: 0.33333334
+    m_PreInfinity: 2
+    m_PostInfinity: 2
+    m_RotationOrder: 4
 --- !u!1 &979110649 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: 447400912691469324, guid: e0f17a16062e7c84eb7b70b512c6fd5a, type: 3}
@@ -54659,7 +54750,8 @@ PrefabInstance:
       propertyPath: m_Name
       value: Catpet_04
       objectReference: {fileID: 0}
-    m_RemovedComponents: []
+    m_RemovedComponents:
+    - {fileID: 64000785037271176, guid: 4c7796793c01a3141b63022aedc330d2, type: 3}
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
     m_AddedComponents: []
@@ -86686,6 +86778,9 @@ PrefabInstance:
     - targetCorrespondingSourceObject: {fileID: 3906879843716495183, guid: a7315c2149bff4efa972e3b04ec3113d, type: 3}
       insertIndex: -1
       addedObject: {fileID: 978240263}
+    - targetCorrespondingSourceObject: {fileID: 3906879843716495183, guid: a7315c2149bff4efa972e3b04ec3113d, type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 978240269}
   m_SourcePrefab: {fileID: 100100000, guid: a7315c2149bff4efa972e3b04ec3113d, type: 3}
 --- !u!1 &1757483193
 GameObject:
@@ -98821,27 +98916,6 @@ Rigidbody:
   m_Interpolate: 0
   m_Constraints: 0
   m_CollisionDetection: 3
---- !u!65 &1880326904
-BoxCollider:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1880326897}
-  m_Material: {fileID: 0}
-  m_IncludeLayers:
-    serializedVersion: 2
-    m_Bits: 0
-  m_ExcludeLayers:
-    serializedVersion: 2
-    m_Bits: 0
-  m_LayerOverridePriority: 0
-  m_IsTrigger: 1
-  m_ProvidesContacts: 0
-  m_Enabled: 1
-  serializedVersion: 3
-  m_Size: {x: 0.47083646, y: 0.47083646, z: 0.47083646}
-  m_Center: {x: 0, y: 0.23707631, z: 0}
 --- !u!65 &1880326908
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -98861,7 +98935,7 @@ BoxCollider:
   m_ProvidesContacts: 0
   m_Enabled: 1
   serializedVersion: 3
-  m_Size: {x: 0, y: 0.47083646, z: 0.47083646}
+  m_Size: {x: 0.02, y: 0.47083646, z: 0.47083646}
   m_Center: {x: 0.23, y: 0.23707631, z: 0}
 --- !u!65 &1880326909
 BoxCollider:
@@ -98882,7 +98956,7 @@ BoxCollider:
   m_ProvidesContacts: 0
   m_Enabled: 1
   serializedVersion: 3
-  m_Size: {x: 0, y: 0.47083646, z: 0.47083646}
+  m_Size: {x: 0.02, y: 0.47083646, z: 0.47083646}
   m_Center: {x: -0.22, y: 0.23707631, z: 0}
 --- !u!65 &1880326910
 BoxCollider:
@@ -98903,8 +98977,8 @@ BoxCollider:
   m_ProvidesContacts: 0
   m_Enabled: 1
   serializedVersion: 3
-  m_Size: {x: 0.47083646, y: 0, z: 0.47083646}
-  m_Center: {x: 0, y: 0.03, z: 0}
+  m_Size: {x: 0.47083646, y: 0.05, z: 0.47083646}
+  m_Center: {x: 0, y: 0.05, z: 0}
 --- !u!65 &1880326911
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -98924,7 +98998,7 @@ BoxCollider:
   m_ProvidesContacts: 0
   m_Enabled: 1
   serializedVersion: 3
-  m_Size: {x: 0.47083646, y: 0.47083646, z: 0}
+  m_Size: {x: 0.47083646, y: 0.47083646, z: 0.02}
   m_Center: {x: 0, y: 0.23707631, z: -0.22}
 --- !u!65 &1880326912
 BoxCollider:
@@ -98945,7 +99019,7 @@ BoxCollider:
   m_ProvidesContacts: 0
   m_Enabled: 1
   serializedVersion: 3
-  m_Size: {x: 0.47083646, y: 0.47083646, z: 0}
+  m_Size: {x: 0.47083646, y: 0.47083646, z: 0.02}
   m_Center: {x: 0, y: 0.23707631, z: 0.22}
 --- !u!1001 &1880387497
 PrefabInstance:
@@ -107677,7 +107751,8 @@ PrefabInstance:
       propertyPath: m_Name
       value: Catpet_04
       objectReference: {fileID: 0}
-    m_RemovedComponents: []
+    m_RemovedComponents:
+    - {fileID: 64000785037271176, guid: 4c7796793c01a3141b63022aedc330d2, type: 3}
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
     m_AddedComponents: []

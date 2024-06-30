@@ -7559,7 +7559,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 5755512408309316409, guid: ace3a1874572a4c2b8746bbd1497ae82, type: 3}
       propertyPath: m_LocalPosition.x
-      value: -63.023
+      value: -61.487
       objectReference: {fileID: 0}
     - target: {fileID: 5755512408309316409, guid: ace3a1874572a4c2b8746bbd1497ae82, type: 3}
       propertyPath: m_LocalPosition.y
@@ -7567,7 +7567,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 5755512408309316409, guid: ace3a1874572a4c2b8746bbd1497ae82, type: 3}
       propertyPath: m_LocalPosition.z
-      value: -169.514
+      value: -168.015
       objectReference: {fileID: 0}
     - target: {fileID: 5755512408309316409, guid: ace3a1874572a4c2b8746bbd1497ae82, type: 3}
       propertyPath: m_LocalRotation.w
@@ -39596,7 +39596,7 @@ BoxCollider:
   m_ProvidesContacts: 0
   m_Enabled: 1
   serializedVersion: 3
-  m_Size: {x: 0, y: 0.47083646, z: 0.47083646}
+  m_Size: {x: 0.02, y: 0.47083646, z: 0.47083646}
   m_Center: {x: 0.23, y: 0.23707631, z: 0}
 --- !u!65 &1880326909
 BoxCollider:
@@ -39617,7 +39617,7 @@ BoxCollider:
   m_ProvidesContacts: 0
   m_Enabled: 1
   serializedVersion: 3
-  m_Size: {x: 0, y: 0.47083646, z: 0.47083646}
+  m_Size: {x: 0.02, y: 0.47083646, z: 0.47083646}
   m_Center: {x: -0.22, y: 0.23707631, z: 0}
 --- !u!65 &1880326910
 BoxCollider:
@@ -39638,8 +39638,8 @@ BoxCollider:
   m_ProvidesContacts: 0
   m_Enabled: 1
   serializedVersion: 3
-  m_Size: {x: 0.47083646, y: 0, z: 0.47083646}
-  m_Center: {x: 0, y: 0.03, z: 0}
+  m_Size: {x: 0.47083646, y: 0.05, z: 0.47083646}
+  m_Center: {x: 0, y: 0.05, z: 0}
 --- !u!65 &1880326911
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -39659,7 +39659,7 @@ BoxCollider:
   m_ProvidesContacts: 0
   m_Enabled: 1
   serializedVersion: 3
-  m_Size: {x: 0.47083646, y: 0.47083646, z: 0}
+  m_Size: {x: 0.47083646, y: 0.47083646, z: 0.02}
   m_Center: {x: 0, y: 0.23707631, z: -0.22}
 --- !u!65 &1880326912
 BoxCollider:
@@ -39680,7 +39680,7 @@ BoxCollider:
   m_ProvidesContacts: 0
   m_Enabled: 1
   serializedVersion: 3
-  m_Size: {x: 0.47083646, y: 0.47083646, z: 0}
+  m_Size: {x: 0.47083646, y: 0.47083646, z: 0.02}
   m_Center: {x: 0, y: 0.23707631, z: 0.22}
 --- !u!65 &1880326916
 BoxCollider:
@@ -42789,8 +42789,8 @@ MonoBehaviour:
   m_text: 'Do you know how to prepare before a wildfire evacuation?
 
 
-    Go to the
-    Living Room and place the phone in the box to start the simulation. '
+    Find your
+    phone and place it in the box in the Living Room to start the simulation. '
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
   m_sharedMaterial: {fileID: 2180264, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
