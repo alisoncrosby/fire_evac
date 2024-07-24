@@ -9,6 +9,7 @@ TagManager:
   - Case
   - Laptop
   - Key
+  - Collected
   layers:
   - Default
   - TransparentFX
