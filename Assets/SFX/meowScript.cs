@@ -35,6 +35,8 @@ public class meowScript : MonoBehaviour
             door.SetActive(false);
             cat.SetActive(true);
             gameObject.SetActive(false);
+            other.tag = "Collectable";
+            other.name = "Cat in Carrier";
         }
     }
 }

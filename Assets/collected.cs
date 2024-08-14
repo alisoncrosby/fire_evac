@@ -13,7 +13,7 @@ public class collected : MonoBehaviour
 
     private void OnTriggerEnter(Collider other)
     {
-        if(other.gameObject.GetComponent<Rigidbody>() != null && other.transform.parent.name != "TrackerOffsets" && other.gameObject.name != "Auto Hand Player")
+        if(other.tag == "Collectable")
         {
             itemList += other.gameObject.name + "\n";
         }

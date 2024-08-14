@@ -14,6 +14,8 @@ public class LaptopCase : MonoBehaviour
             other.gameObject.SetActive(false);
             lid1.SetActive(false);
             lid2.SetActive(true);
+            gameObject.tag = "Collectable";
+            gameObject.name = "Laptop in Case";
         }
     }
 }

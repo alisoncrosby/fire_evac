@@ -10,6 +10,7 @@ TagManager:
   - Laptop
   - Key
   - Collected
+  - Collectable
   layers:
   - Default
   - TransparentFX
