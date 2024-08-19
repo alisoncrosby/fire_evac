@@ -133,7 +133,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 2029589156610042220, guid: d5b99930927864f9f9d2d4b68384cbda, type: 3}
       propertyPath: m_Name
-      value: Tripod_Camera
+      value: Tripod Camera
       objectReference: {fileID: 0}
     - target: {fileID: 2029589156610042220, guid: d5b99930927864f9f9d2d4b68384cbda, type: 3}
       propertyPath: m_TagString
@@ -1069,7 +1069,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: e849c4c0a05e9a14fa440297c3e84dd6, type: 3}
       propertyPath: m_Name
-      value: Green_Shoe
+      value: Green Shoe
       objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: e849c4c0a05e9a14fa440297c3e84dd6, type: 3}
       propertyPath: m_TagString
@@ -1512,7 +1512,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: 48367b371fbbdf841ba365ec59da8bbc, type: 3}
       propertyPath: m_Name
-      value: Book_07
+      value: Book
       objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: 48367b371fbbdf841ba365ec59da8bbc, type: 3}
       propertyPath: m_TagString
@@ -2644,7 +2644,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 4844384501662101541, guid: 0a96069081771de46913a2815964c13b, type: 3}
       propertyPath: m_Name
-      value: Cat_Scratcher
+      value: Cat Scratcher
       objectReference: {fileID: 0}
     - target: {fileID: 4844384501662101541, guid: 0a96069081771de46913a2815964c13b, type: 3}
       propertyPath: m_TagString
@@ -3212,7 +3212,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 8214893257865816999, guid: 4a79c1480ff1948a697302404d1b95d6, type: 3}
       propertyPath: m_Name
-      value: Game_Controller
+      value: Game Controller
       objectReference: {fileID: 0}
     - target: {fileID: 8214893257865816999, guid: 4a79c1480ff1948a697302404d1b95d6, type: 3}
       propertyPath: m_TagString
@@ -3384,7 +3384,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 8341255337186939984, guid: 55631b7bb862a4d928eaf84c9f939de0, type: 3}
       propertyPath: m_Name
-      value: HeadSet2
+      value: Head Set
       objectReference: {fileID: 0}
     - target: {fileID: 8341255337186939984, guid: 55631b7bb862a4d928eaf84c9f939de0, type: 3}
       propertyPath: m_TagString
@@ -3414,7 +3414,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 100000, guid: 426cd4815459dee4386fb1e9d35d53f2, type: 3}
       propertyPath: m_Name
-      value: Canned_Food2
+      value: Canned Food
       objectReference: {fileID: 0}
     - target: {fileID: 100000, guid: 426cd4815459dee4386fb1e9d35d53f2, type: 3}
       propertyPath: m_TagString
@@ -3714,7 +3714,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 100000, guid: 7622c70069b12d14db7cf67113339a27, type: 3}
       propertyPath: m_Name
-      value: Blue_Food_Can
+      value: Canned Food
       objectReference: {fileID: 0}
     - target: {fileID: 100000, guid: 7622c70069b12d14db7cf67113339a27, type: 3}
       propertyPath: m_TagString
@@ -3882,7 +3882,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 4959436080105581057, guid: 91a5010a3324b4065bcb2c19c5ec0297, type: 3}
       propertyPath: m_Name
-      value: Desk_Orbiter
+      value: Desk Orbiter
       objectReference: {fileID: 0}
     - target: {fileID: 4959436080105581057, guid: 91a5010a3324b4065bcb2c19c5ec0297, type: 3}
       propertyPath: m_TagString
@@ -4350,7 +4350,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 6140405662468401649, guid: 912a3c76521da46af9ed70feea46a2fa, type: 3}
       propertyPath: m_Name
-      value: Box_Cutter
+      value: Box Cutter
       objectReference: {fileID: 0}
     - target: {fileID: 6140405662468401649, guid: 912a3c76521da46af9ed70feea46a2fa, type: 3}
       propertyPath: m_TagString
@@ -4684,7 +4684,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 1622818300524583950, guid: fee25509423d2e3469a1a049ec5529df, type: 3}
       propertyPath: m_Name
-      value: Trophy2
+      value: Trophy
       objectReference: {fileID: 0}
     - target: {fileID: 1622818300524583950, guid: fee25509423d2e3469a1a049ec5529df, type: 3}
       propertyPath: m_TagString
@@ -6154,7 +6154,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 5501463826058496379, guid: a13d069b2efd7874bb438cec39d00001, type: 3}
       propertyPath: m_Name
-      value: Book_03 (8)
+      value: Book
       objectReference: {fileID: 0}
     - target: {fileID: 5501463826058496379, guid: a13d069b2efd7874bb438cec39d00001, type: 3}
       propertyPath: m_TagString
@@ -6850,7 +6850,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 2824734138966244313, guid: 420e3ee5e6358fa408f5572452731864, type: 3}
       propertyPath: m_Name
-      value: FireExtinguisher
+      value: Fire Extinguisher
       objectReference: {fileID: 0}
     - target: {fileID: 2824734138966244313, guid: 420e3ee5e6358fa408f5572452731864, type: 3}
       propertyPath: m_TagString
@@ -12355,7 +12355,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 327900445668506925, guid: 33a8c28b4f33d61478a68178b96b46b8, type: 3}
       propertyPath: m_Name
-      value: Book_02
+      value: Book
       objectReference: {fileID: 0}
     - target: {fileID: 327900445668506925, guid: 33a8c28b4f33d61478a68178b96b46b8, type: 3}
       propertyPath: m_TagString
@@ -12483,7 +12483,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 6299328208591831595, guid: 7dbc3b1a798ba4ab0a4170b2d0d702d3, type: 3}
       propertyPath: m_Name
-      value: Folder_Holder
+      value: Folder Holder
       objectReference: {fileID: 0}
     - target: {fileID: 6299328208591831595, guid: 7dbc3b1a798ba4ab0a4170b2d0d702d3, type: 3}
       propertyPath: m_TagString
@@ -13073,7 +13073,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 3657263620994225537, guid: f8d30a5e3473e4a3792cf6be9a7c972f, type: 3}
       propertyPath: m_Name
-      value: PuzzleCube1
+      value: Puzzle Cube
       objectReference: {fileID: 0}
     - target: {fileID: 3657263620994225537, guid: f8d30a5e3473e4a3792cf6be9a7c972f, type: 3}
       propertyPath: m_TagString
@@ -14932,7 +14932,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 8237462429155381272, guid: 13702aca58f0641e5a37765039a571b1, type: 3}
       propertyPath: m_Name
-      value: Prescription_Medicine
+      value: Prescription Medicine
       objectReference: {fileID: 0}
     - target: {fileID: 8237462429155381272, guid: 13702aca58f0641e5a37765039a571b1, type: 3}
       propertyPath: m_TagString
@@ -15333,7 +15333,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 5856425632164162754, guid: 8b2d9eff405ae4aca8ca3f23e0e3c5af, type: 3}
       propertyPath: m_Name
-      value: SoccerBall
+      value: Soccer Ball
       objectReference: {fileID: 0}
     - target: {fileID: 5856425632164162754, guid: 8b2d9eff405ae4aca8ca3f23e0e3c5af, type: 3}
       propertyPath: m_TagString
@@ -15437,7 +15437,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 100000, guid: 9e1443ce2853f9d4ea4dc7bf65ef95d4, type: 3}
       propertyPath: m_Name
-      value: Red_Food_Can
+      value: Canned Food
       objectReference: {fileID: 0}
     - target: {fileID: 100000, guid: 9e1443ce2853f9d4ea4dc7bf65ef95d4, type: 3}
       propertyPath: m_TagString
@@ -15675,7 +15675,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 1040263784508628379, guid: a6e408905e0684bdda04e45a7b3d91fb, type: 3}
       propertyPath: m_Name
-      value: Hammer3
+      value: Hammer
       objectReference: {fileID: 0}
     - target: {fileID: 5828681523095254705, guid: a6e408905e0684bdda04e45a7b3d91fb, type: 3}
       propertyPath: m_LocalPosition.x
@@ -16711,7 +16711,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 1175876492916569729, guid: f8b1d7abf0d53448283e95b8a6271950, type: 3}
       propertyPath: m_Name
-      value: Laundry_Detergent
+      value: Laundry Detergent
       objectReference: {fileID: 0}
     - target: {fileID: 1175876492916569729, guid: f8b1d7abf0d53448283e95b8a6271950, type: 3}
       propertyPath: m_TagString
@@ -17890,7 +17890,7 @@ PrefabInstance:
   serializedVersion: 2
   m_Modification:
     serializedVersion: 3
-    m_TransformParent: {fileID: 0}
+    m_TransformParent: {fileID: 1274078610}
     m_Modifications:
     - target: {fileID: 83807846428840796, guid: 6f2b45f1086784d0fbebbafa98517608, type: 3}
       propertyPath: m_Name
@@ -17902,15 +17902,15 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 5299590962001592148, guid: 6f2b45f1086784d0fbebbafa98517608, type: 3}
       propertyPath: m_LocalPosition.x
-      value: -54.148426
+      value: -14.505917
       objectReference: {fileID: 0}
     - target: {fileID: 5299590962001592148, guid: 6f2b45f1086784d0fbebbafa98517608, type: 3}
       propertyPath: m_LocalPosition.y
-      value: 0.9572363
+      value: -61.12655
       objectReference: {fileID: 0}
     - target: {fileID: 5299590962001592148, guid: 6f2b45f1086784d0fbebbafa98517608, type: 3}
       propertyPath: m_LocalPosition.z
-      value: -158.74
+      value: -177.44812
       objectReference: {fileID: 0}
     - target: {fileID: 5299590962001592148, guid: 6f2b45f1086784d0fbebbafa98517608, type: 3}
       propertyPath: m_LocalRotation.w
@@ -17918,7 +17918,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 5299590962001592148, guid: 6f2b45f1086784d0fbebbafa98517608, type: 3}
       propertyPath: m_LocalRotation.x
-      value: 0
+      value: -0
       objectReference: {fileID: 0}
     - target: {fileID: 5299590962001592148, guid: 6f2b45f1086784d0fbebbafa98517608, type: 3}
       propertyPath: m_LocalRotation.y
@@ -17945,6 +17945,11 @@ PrefabInstance:
     m_AddedGameObjects: []
     m_AddedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 6f2b45f1086784d0fbebbafa98517608, type: 3}
+--- !u!4 &289296230 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 5299590962001592148, guid: 6f2b45f1086784d0fbebbafa98517608, type: 3}
+  m_PrefabInstance: {fileID: 289296229}
+  m_PrefabAsset: {fileID: 0}
 --- !u!1001 &292444344
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -18189,7 +18194,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 603962165929857309, guid: 2ea233ab9edb141dd86bf6372378506f, type: 3}
       propertyPath: m_Name
-      value: Books10
+      value: Books
       objectReference: {fileID: 0}
     - target: {fileID: 603962165929857309, guid: 2ea233ab9edb141dd86bf6372378506f, type: 3}
       propertyPath: m_TagString
@@ -18743,7 +18748,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 362271778948495978, guid: fcee60bf92be97f45bcd757fe68c58e9, type: 3}
       propertyPath: m_Name
-      value: Book_04 (1)
+      value: Book
       objectReference: {fileID: 0}
     - target: {fileID: 362271778948495978, guid: fcee60bf92be97f45bcd757fe68c58e9, type: 3}
       propertyPath: m_TagString
@@ -19012,7 +19017,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 5587437515491066338, guid: 2ddf1684d4a2993469e6e913e0979768, type: 3}
       propertyPath: m_Name
-      value: NoteBook
+      value: Note Book
       objectReference: {fileID: 0}
     - target: {fileID: 5587437515491066338, guid: 2ddf1684d4a2993469e6e913e0979768, type: 3}
       propertyPath: m_TagString
@@ -19156,7 +19161,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 868521138558046649, guid: ace3a1874572a4c2b8746bbd1497ae82, type: 3}
       propertyPath: m_Name
-      value: CardboardBox2
+      value: Cardboard Box
       objectReference: {fileID: 0}
     - target: {fileID: 5755512408309316409, guid: ace3a1874572a4c2b8746bbd1497ae82, type: 3}
       propertyPath: m_LocalPosition.x
@@ -19296,7 +19301,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 6320065199404775559, guid: 03afb720991ed4978bd59f153ddf70b8, type: 3}
       propertyPath: m_Name
-      value: VHS_Tape
+      value: VHS Tape
       objectReference: {fileID: 0}
     - target: {fileID: 6320065199404775559, guid: 03afb720991ed4978bd59f153ddf70b8, type: 3}
       propertyPath: m_TagString
@@ -19845,7 +19850,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 789992777480155291, guid: ee49527c845ccdc4a91c5c201b63ba3e, type: 3}
       propertyPath: m_Name
-      value: Gas_Tank
+      value: Gas Tank
       objectReference: {fileID: 0}
     - target: {fileID: 789992777480155291, guid: ee49527c845ccdc4a91c5c201b63ba3e, type: 3}
       propertyPath: m_TagString
@@ -19875,7 +19880,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 6320065199404775559, guid: 03afb720991ed4978bd59f153ddf70b8, type: 3}
       propertyPath: m_Name
-      value: VHS_Tape
+      value: VHS Tape
       objectReference: {fileID: 0}
     - target: {fileID: 6320065199404775559, guid: 03afb720991ed4978bd59f153ddf70b8, type: 3}
       propertyPath: m_TagString
@@ -21044,7 +21049,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 6898249758122433329, guid: 63031a2836142463286419a03f3fa3de, type: 3}
       propertyPath: m_Name
-      value: Water_Bottle
+      value: Water Bottle
       objectReference: {fileID: 0}
     - target: {fileID: 6898249758122433329, guid: 63031a2836142463286419a03f3fa3de, type: 3}
       propertyPath: m_TagString
@@ -22431,7 +22436,7 @@ PrefabInstance:
   serializedVersion: 2
   m_Modification:
     serializedVersion: 3
-    m_TransformParent: {fileID: 0}
+    m_TransformParent: {fileID: 1274078610}
     m_Modifications:
     - target: {fileID: 5830518868451087588, guid: 8e7e45f7f0ecc419187220bd85f051b5, type: 3}
       propertyPath: m_Name
@@ -22439,15 +22444,15 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 8982313420269084278, guid: 8e7e45f7f0ecc419187220bd85f051b5, type: 3}
       propertyPath: m_LocalPosition.x
-      value: -49.197
+      value: -9.554489
       objectReference: {fileID: 0}
     - target: {fileID: 8982313420269084278, guid: 8e7e45f7f0ecc419187220bd85f051b5, type: 3}
       propertyPath: m_LocalPosition.y
-      value: 0.95723724
+      value: -61.12655
       objectReference: {fileID: 0}
     - target: {fileID: 8982313420269084278, guid: 8e7e45f7f0ecc419187220bd85f051b5, type: 3}
       propertyPath: m_LocalPosition.z
-      value: -167.554
+      value: -186.26212
       objectReference: {fileID: 0}
     - target: {fileID: 8982313420269084278, guid: 8e7e45f7f0ecc419187220bd85f051b5, type: 3}
       propertyPath: m_LocalRotation.w
@@ -22455,7 +22460,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 8982313420269084278, guid: 8e7e45f7f0ecc419187220bd85f051b5, type: 3}
       propertyPath: m_LocalRotation.x
-      value: 0
+      value: -0
       objectReference: {fileID: 0}
     - target: {fileID: 8982313420269084278, guid: 8e7e45f7f0ecc419187220bd85f051b5, type: 3}
       propertyPath: m_LocalRotation.y
@@ -22482,6 +22487,11 @@ PrefabInstance:
     m_AddedGameObjects: []
     m_AddedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 8e7e45f7f0ecc419187220bd85f051b5, type: 3}
+--- !u!4 &376102313 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 8982313420269084278, guid: 8e7e45f7f0ecc419187220bd85f051b5, type: 3}
+  m_PrefabInstance: {fileID: 376102312}
+  m_PrefabAsset: {fileID: 0}
 --- !u!1 &376834820 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: 362271778948495978, guid: fcee60bf92be97f45bcd757fe68c58e9, type: 3}
@@ -22962,7 +22972,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 5501463826058496379, guid: a13d069b2efd7874bb438cec39d00001, type: 3}
       propertyPath: m_Name
-      value: Book_03 (3)
+      value: Book
       objectReference: {fileID: 0}
     - target: {fileID: 5501463826058496379, guid: a13d069b2efd7874bb438cec39d00001, type: 3}
       propertyPath: m_TagString
@@ -24709,7 +24719,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 5501463826058496379, guid: a13d069b2efd7874bb438cec39d00001, type: 3}
       propertyPath: m_Name
-      value: Book_03 (2)
+      value: Book
       objectReference: {fileID: 0}
     - target: {fileID: 5501463826058496379, guid: a13d069b2efd7874bb438cec39d00001, type: 3}
       propertyPath: m_TagString
@@ -24886,7 +24896,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 100000, guid: ea7fcce5c1946d14e99bef6ba60ca9c5, type: 3}
       propertyPath: m_Name
-      value: Battery_3
+      value: Battery
       objectReference: {fileID: 0}
     - target: {fileID: 100000, guid: ea7fcce5c1946d14e99bef6ba60ca9c5, type: 3}
       propertyPath: m_TagString
@@ -25054,7 +25064,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 5100333917373705764, guid: eb947187cf24d4955acc681d07e1a87c, type: 3}
       propertyPath: m_Name
-      value: FlashDrive2
+      value: Flash Drive
       objectReference: {fileID: 0}
     - target: {fileID: 5100333917373705764, guid: eb947187cf24d4955acc681d07e1a87c, type: 3}
       propertyPath: m_TagString
@@ -25316,7 +25326,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 1117136239979310342, guid: 96f04489f3924d7418c795a6452a72ca, type: 3}
       propertyPath: m_Name
-      value: Slipper2
+      value: Slipper
       objectReference: {fileID: 0}
     - target: {fileID: 1117136239979310342, guid: 96f04489f3924d7418c795a6452a72ca, type: 3}
       propertyPath: m_TagString
@@ -25568,7 +25578,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 2404851589643585096, guid: 145b29618c0fb41069cd3b474308cf41, type: 3}
       propertyPath: m_Name
-      value: Can2
+      value: Can
       objectReference: {fileID: 0}
     - target: {fileID: 2404851589643585096, guid: 145b29618c0fb41069cd3b474308cf41, type: 3}
       propertyPath: m_TagString
@@ -25757,7 +25767,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 1486392864796053500, guid: e5b4c4d3ea81e5f40b6f6ef4c037bf14, type: 3}
       propertyPath: m_Name
-      value: ToiletPaper
+      value: Toilet Paper
       objectReference: {fileID: 0}
     - target: {fileID: 1486392864796053500, guid: e5b4c4d3ea81e5f40b6f6ef4c037bf14, type: 3}
       propertyPath: m_TagString
@@ -26023,7 +26033,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 4111823549340944168, guid: a7581c422d68c894b8e1f79d4a93ec06, type: 3}
       propertyPath: m_Name
-      value: Book_01 (3)
+      value: Book
       objectReference: {fileID: 0}
     - target: {fileID: 4111823549340944168, guid: a7581c422d68c894b8e1f79d4a93ec06, type: 3}
       propertyPath: m_TagString
@@ -27416,7 +27426,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 4466612965432197194, guid: 59a1def76b0d0af4bad26f011fb285dd, type: 3}
       propertyPath: m_Name
-      value: Pet_Food_Bag
+      value: Pet Food Bag
       objectReference: {fileID: 0}
     - target: {fileID: 4466612965432197194, guid: 59a1def76b0d0af4bad26f011fb285dd, type: 3}
       propertyPath: m_TagString
@@ -27986,7 +27996,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 696765545835964437, guid: a48ff92ff50862f4fb34fb3842d498c6, type: 3}
       propertyPath: m_Name
-      value: LitterBox
+      value: Litter Box
       objectReference: {fileID: 0}
     - target: {fileID: 696765545835964437, guid: a48ff92ff50862f4fb34fb3842d498c6, type: 3}
       propertyPath: m_TagString
@@ -29227,7 +29237,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 362271778948495978, guid: fcee60bf92be97f45bcd757fe68c58e9, type: 3}
       propertyPath: m_Name
-      value: Book_04 (6)
+      value: Book
       objectReference: {fileID: 0}
     - target: {fileID: 362271778948495978, guid: fcee60bf92be97f45bcd757fe68c58e9, type: 3}
       propertyPath: m_TagString
@@ -29610,7 +29620,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 4662305135347519631, guid: 37a41acdd29ded54c9ffe5fba16fba90, type: 3}
       propertyPath: m_Name
-      value: SoapBottle_02
+      value: Soap Bottle
       objectReference: {fileID: 0}
     - target: {fileID: 4662305135347519631, guid: 37a41acdd29ded54c9ffe5fba16fba90, type: 3}
       propertyPath: m_TagString
@@ -31156,7 +31166,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 4111823549340944168, guid: a7581c422d68c894b8e1f79d4a93ec06, type: 3}
       propertyPath: m_Name
-      value: Book_01 (8)
+      value: Book
       objectReference: {fileID: 0}
     - target: {fileID: 4111823549340944168, guid: a7581c422d68c894b8e1f79d4a93ec06, type: 3}
       propertyPath: m_TagString
@@ -31495,7 +31505,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 6890904678933201332, guid: 33c149cf919d247258450b4dd3dcc813, type: 3}
       propertyPath: m_Name
-      value: Spray_Bottle
+      value: Spray Bottle
       objectReference: {fileID: 0}
     - target: {fileID: 6890904678933201332, guid: 33c149cf919d247258450b4dd3dcc813, type: 3}
       propertyPath: m_TagString
@@ -32092,7 +32102,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 4888895786560471266, guid: 519e557e286354bed9bcf0a68144c77f, type: 3}
       propertyPath: m_Name
-      value: FlashDrive1
+      value: Flash Drive
       objectReference: {fileID: 0}
     - target: {fileID: 4888895786560471266, guid: 519e557e286354bed9bcf0a68144c77f, type: 3}
       propertyPath: m_TagString
@@ -33012,7 +33022,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 362271778948495978, guid: fcee60bf92be97f45bcd757fe68c58e9, type: 3}
       propertyPath: m_Name
-      value: Book_04 (2)
+      value: Book
       objectReference: {fileID: 0}
     - target: {fileID: 362271778948495978, guid: fcee60bf92be97f45bcd757fe68c58e9, type: 3}
       propertyPath: m_TagString
@@ -33318,7 +33328,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 868521138558046649, guid: ace3a1874572a4c2b8746bbd1497ae82, type: 3}
       propertyPath: m_Name
-      value: CardboardBox2 (2)
+      value: Cardboard Box
       objectReference: {fileID: 0}
     - target: {fileID: 868521138558046649, guid: ace3a1874572a4c2b8746bbd1497ae82, type: 3}
       propertyPath: m_TagString
@@ -33672,7 +33682,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 8226773914517494944, guid: 41f9a304bbc440444a8d319c1a1df384, type: 3}
       propertyPath: m_Name
-      value: Mouse_Toy
+      value: Mouse Toy
       objectReference: {fileID: 0}
     - target: {fileID: 8226773914517494944, guid: 41f9a304bbc440444a8d319c1a1df384, type: 3}
       propertyPath: m_TagString
@@ -34008,7 +34018,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 7557176657710531083, guid: 169f2f23ccffc45abb94ad0f06333773, type: 3}
       propertyPath: m_Name
-      value: MousePad2
+      value: Mouse Pad
       objectReference: {fileID: 0}
     - target: {fileID: 7557176657710531083, guid: 169f2f23ccffc45abb94ad0f06333773, type: 3}
       propertyPath: m_TagString
@@ -36395,7 +36405,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 2824734138966244313, guid: 420e3ee5e6358fa408f5572452731864, type: 3}
       propertyPath: m_Name
-      value: FireExtinguisher
+      value: Fire Extinguisher
       objectReference: {fileID: 0}
     - target: {fileID: 3204495952160235875, guid: 420e3ee5e6358fa408f5572452731864, type: 3}
       propertyPath: m_LocalScale.x
@@ -36521,7 +36531,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 4111823549340944168, guid: a7581c422d68c894b8e1f79d4a93ec06, type: 3}
       propertyPath: m_Name
-      value: Book_01 (2)
+      value: Book
       objectReference: {fileID: 0}
     - target: {fileID: 4111823549340944168, guid: a7581c422d68c894b8e1f79d4a93ec06, type: 3}
       propertyPath: m_TagString
@@ -37423,7 +37433,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 868521138558046649, guid: ace3a1874572a4c2b8746bbd1497ae82, type: 3}
       propertyPath: m_Name
-      value: CardboardBox2 (1)
+      value: Cardboard Box
       objectReference: {fileID: 0}
     - target: {fileID: 5755512408309316409, guid: ace3a1874572a4c2b8746bbd1497ae82, type: 3}
       propertyPath: m_LocalPosition.x
@@ -37944,7 +37954,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: f7ef6d8703ecd494e982d6711b77e2db, type: 3}
       propertyPath: m_Name
-      value: Bird_Toy
+      value: Bird Toy
       objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: f7ef6d8703ecd494e982d6711b77e2db, type: 3}
       propertyPath: m_TagString
@@ -38691,7 +38701,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 1308534199443360998, guid: dcdd8920a65bd42d392b2bb9facfa1e4, type: 3}
       propertyPath: m_Name
-      value: CarKey
+      value: Car Keys
       objectReference: {fileID: 0}
     - target: {fileID: 1308534199443360998, guid: dcdd8920a65bd42d392b2bb9facfa1e4, type: 3}
       propertyPath: m_TagString
@@ -39072,7 +39082,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 6437572119425807056, guid: e81bb985a21764c908e8e473f929ae68, type: 3}
       propertyPath: m_Name
-      value: Bat1
+      value: Bat
       objectReference: {fileID: 0}
     - target: {fileID: 6437572119425807056, guid: e81bb985a21764c908e8e473f929ae68, type: 3}
       propertyPath: m_TagString
@@ -39133,7 +39143,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 7139596376243819959, guid: 25206a0f803704a03a773385e017d6e4, type: 3}
       propertyPath: m_Name
-      value: Laundry_Bin
+      value: Laundry Bin
       objectReference: {fileID: 0}
     - target: {fileID: 7139596376243819959, guid: 25206a0f803704a03a773385e017d6e4, type: 3}
       propertyPath: m_TagString
@@ -39778,7 +39788,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 4111823549340944168, guid: a7581c422d68c894b8e1f79d4a93ec06, type: 3}
       propertyPath: m_Name
-      value: Book_01 (7)
+      value: Book
       objectReference: {fileID: 0}
     - target: {fileID: 4111823549340944168, guid: a7581c422d68c894b8e1f79d4a93ec06, type: 3}
       propertyPath: m_TagString
@@ -40219,7 +40229,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 7548135141855306968, guid: f1f0ef0b2c59c46aca363056f5dc847d, type: 3}
       propertyPath: m_Name
-      value: Laptop_Bag
+      value: Laptop Bag
       objectReference: {fileID: 0}
     - target: {fileID: 7548135141855306968, guid: f1f0ef0b2c59c46aca363056f5dc847d, type: 3}
       propertyPath: m_TagString
@@ -41263,7 +41273,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: 5acb5a36d949ab94989f636e4bf7e71b, type: 3}
       propertyPath: m_Name
-      value: Crocodile_Toy
+      value: Crocodile Toy
       objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: 5acb5a36d949ab94989f636e4bf7e71b, type: 3}
       propertyPath: m_TagString
@@ -41464,7 +41474,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 1117136239979310342, guid: 96f04489f3924d7418c795a6452a72ca, type: 3}
       propertyPath: m_Name
-      value: Slipper1
+      value: Slipper
       objectReference: {fileID: 0}
     - target: {fileID: 1117136239979310342, guid: 96f04489f3924d7418c795a6452a72ca, type: 3}
       propertyPath: m_TagString
@@ -42716,7 +42726,7 @@ PrefabInstance:
   serializedVersion: 2
   m_Modification:
     serializedVersion: 3
-    m_TransformParent: {fileID: 0}
+    m_TransformParent: {fileID: 1274078610}
     m_Modifications:
     - target: {fileID: 4751910863338141621, guid: 59702ac0aad564861bcd1129210e30d7, type: 3}
       propertyPath: m_Name
@@ -42724,15 +42734,15 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 8153839975342652365, guid: 59702ac0aad564861bcd1129210e30d7, type: 3}
       propertyPath: m_LocalPosition.x
-      value: -63.1799
+      value: -23.537392
       objectReference: {fileID: 0}
     - target: {fileID: 8153839975342652365, guid: 59702ac0aad564861bcd1129210e30d7, type: 3}
       propertyPath: m_LocalPosition.y
-      value: 0.9572363
+      value: -61.12655
       objectReference: {fileID: 0}
     - target: {fileID: 8153839975342652365, guid: 59702ac0aad564861bcd1129210e30d7, type: 3}
       propertyPath: m_LocalPosition.z
-      value: -151.43666
+      value: -170.14478
       objectReference: {fileID: 0}
     - target: {fileID: 8153839975342652365, guid: 59702ac0aad564861bcd1129210e30d7, type: 3}
       propertyPath: m_LocalRotation.w
@@ -42740,7 +42750,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 8153839975342652365, guid: 59702ac0aad564861bcd1129210e30d7, type: 3}
       propertyPath: m_LocalRotation.x
-      value: 0
+      value: -0
       objectReference: {fileID: 0}
     - target: {fileID: 8153839975342652365, guid: 59702ac0aad564861bcd1129210e30d7, type: 3}
       propertyPath: m_LocalRotation.y
@@ -42767,6 +42777,11 @@ PrefabInstance:
     m_AddedGameObjects: []
     m_AddedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 59702ac0aad564861bcd1129210e30d7, type: 3}
+--- !u!4 &805057010 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 8153839975342652365, guid: 59702ac0aad564861bcd1129210e30d7, type: 3}
+  m_PrefabInstance: {fileID: 805057009}
+  m_PrefabAsset: {fileID: 0}
 --- !u!1001 &806740899
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -42781,7 +42796,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 327900445668506925, guid: 33a8c28b4f33d61478a68178b96b46b8, type: 3}
       propertyPath: m_Name
-      value: Book_02 (1)
+      value: Book
       objectReference: {fileID: 0}
     - target: {fileID: 327900445668506925, guid: 33a8c28b4f33d61478a68178b96b46b8, type: 3}
       propertyPath: m_TagString
@@ -42994,7 +43009,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: 6d56663a87d484a4d9e682a54ee91512, type: 3}
       propertyPath: m_Name
-      value: Cat_Litter_Scoop
+      value: Cat Litter Scoop
       objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: 6d56663a87d484a4d9e682a54ee91512, type: 3}
       propertyPath: m_TagString
@@ -43757,7 +43772,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: 241c0351028c15540adbd2f95fd66c8b, type: 3}
       propertyPath: m_Name
-      value: Book_03
+      value: Book
       objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: 241c0351028c15540adbd2f95fd66c8b, type: 3}
       propertyPath: m_TagString
@@ -44069,7 +44084,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 868521138558046649, guid: ace3a1874572a4c2b8746bbd1497ae82, type: 3}
       propertyPath: m_Name
-      value: CardboardBox2 (4)
+      value: Cardboard Box
       objectReference: {fileID: 0}
     - target: {fileID: 868521138558046649, guid: ace3a1874572a4c2b8746bbd1497ae82, type: 3}
       propertyPath: m_TagString
@@ -44382,7 +44397,7 @@ PrefabInstance:
   serializedVersion: 2
   m_Modification:
     serializedVersion: 3
-    m_TransformParent: {fileID: 0}
+    m_TransformParent: {fileID: 1274078610}
     m_Modifications:
     - target: {fileID: 3060192712689340081, guid: 27e929a63f36744139161ef06a41319d, type: 3}
       propertyPath: m_Name
@@ -44390,15 +44405,15 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 6462314325585655883, guid: 27e929a63f36744139161ef06a41319d, type: 3}
       propertyPath: m_LocalPosition.x
-      value: -59.9
+      value: -20.257492
       objectReference: {fileID: 0}
     - target: {fileID: 6462314325585655883, guid: 27e929a63f36744139161ef06a41319d, type: 3}
       propertyPath: m_LocalPosition.y
-      value: 0.9572358
+      value: -61.12655
       objectReference: {fileID: 0}
     - target: {fileID: 6462314325585655883, guid: 27e929a63f36744139161ef06a41319d, type: 3}
       propertyPath: m_LocalPosition.z
-      value: -149.52
+      value: -168.22812
       objectReference: {fileID: 0}
     - target: {fileID: 6462314325585655883, guid: 27e929a63f36744139161ef06a41319d, type: 3}
       propertyPath: m_LocalRotation.w
@@ -44406,7 +44421,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 6462314325585655883, guid: 27e929a63f36744139161ef06a41319d, type: 3}
       propertyPath: m_LocalRotation.x
-      value: 0
+      value: -0
       objectReference: {fileID: 0}
     - target: {fileID: 6462314325585655883, guid: 27e929a63f36744139161ef06a41319d, type: 3}
       propertyPath: m_LocalRotation.y
@@ -44433,6 +44448,11 @@ PrefabInstance:
     m_AddedGameObjects: []
     m_AddedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 27e929a63f36744139161ef06a41319d, type: 3}
+--- !u!4 &839600075 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 6462314325585655883, guid: 27e929a63f36744139161ef06a41319d, type: 3}
+  m_PrefabInstance: {fileID: 839600074}
+  m_PrefabAsset: {fileID: 0}
 --- !u!1001 &844715540
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -44591,7 +44611,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 100000, guid: 9d326fd41ab8bd64babb75ad4f6962df, type: 3}
       propertyPath: m_Name
-      value: Primus_mat
+      value: Camp Stove
       objectReference: {fileID: 0}
     - target: {fileID: 100000, guid: 9d326fd41ab8bd64babb75ad4f6962df, type: 3}
       propertyPath: m_TagString
@@ -44819,7 +44839,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 4111823549340944168, guid: a7581c422d68c894b8e1f79d4a93ec06, type: 3}
       propertyPath: m_Name
-      value: Book_01 (6)
+      value: Book
       objectReference: {fileID: 0}
     - target: {fileID: 4111823549340944168, guid: a7581c422d68c894b8e1f79d4a93ec06, type: 3}
       propertyPath: m_TagString
@@ -45696,7 +45716,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 5336282427294024811, guid: 63f2b6a5ba7e946ad89735ca385a6056, type: 3}
       propertyPath: m_Name
-      value: CardboardBox1
+      value: Cardboard Box
       objectReference: {fileID: 0}
     - target: {fileID: 7142516151448488478, guid: 63f2b6a5ba7e946ad89735ca385a6056, type: 3}
       propertyPath: m_LocalPosition.x
@@ -46405,7 +46425,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 4111823549340944168, guid: a7581c422d68c894b8e1f79d4a93ec06, type: 3}
       propertyPath: m_Name
-      value: Book_01 (12)
+      value: Book
       objectReference: {fileID: 0}
     - target: {fileID: 4111823549340944168, guid: a7581c422d68c894b8e1f79d4a93ec06, type: 3}
       propertyPath: m_TagString
@@ -47431,7 +47451,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 4111823549340944168, guid: a7581c422d68c894b8e1f79d4a93ec06, type: 3}
       propertyPath: m_Name
-      value: Book_01 (5)
+      value: Book
       objectReference: {fileID: 0}
     - target: {fileID: 4111823549340944168, guid: a7581c422d68c894b8e1f79d4a93ec06, type: 3}
       propertyPath: m_TagString
@@ -47581,7 +47601,7 @@ PrefabInstance:
   serializedVersion: 2
   m_Modification:
     serializedVersion: 3
-    m_TransformParent: {fileID: 0}
+    m_TransformParent: {fileID: 1274078610}
     m_Modifications:
     - target: {fileID: 2010625611567276416, guid: 92ee345045e824333a814cae82299156, type: 3}
       propertyPath: m_Name
@@ -47593,15 +47613,15 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 7597248518759790683, guid: 92ee345045e824333a814cae82299156, type: 3}
       propertyPath: m_LocalPosition.x
-      value: -55.100212
+      value: -15.457703
       objectReference: {fileID: 0}
     - target: {fileID: 7597248518759790683, guid: 92ee345045e824333a814cae82299156, type: 3}
       propertyPath: m_LocalPosition.y
-      value: 0.9572344
+      value: -61.126553
       objectReference: {fileID: 0}
     - target: {fileID: 7597248518759790683, guid: 92ee345045e824333a814cae82299156, type: 3}
       propertyPath: m_LocalPosition.z
-      value: -159.17242
+      value: -177.88054
       objectReference: {fileID: 0}
     - target: {fileID: 7597248518759790683, guid: 92ee345045e824333a814cae82299156, type: 3}
       propertyPath: m_LocalRotation.w
@@ -47609,7 +47629,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 7597248518759790683, guid: 92ee345045e824333a814cae82299156, type: 3}
       propertyPath: m_LocalRotation.x
-      value: 0
+      value: -0
       objectReference: {fileID: 0}
     - target: {fileID: 7597248518759790683, guid: 92ee345045e824333a814cae82299156, type: 3}
       propertyPath: m_LocalRotation.y
@@ -47636,6 +47656,11 @@ PrefabInstance:
     m_AddedGameObjects: []
     m_AddedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 92ee345045e824333a814cae82299156, type: 3}
+--- !u!4 &920775126 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 7597248518759790683, guid: 92ee345045e824333a814cae82299156, type: 3}
+  m_PrefabInstance: {fileID: 920775125}
+  m_PrefabAsset: {fileID: 0}
 --- !u!1001 &925654898
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -47770,19 +47795,19 @@ PrefabInstance:
   serializedVersion: 2
   m_Modification:
     serializedVersion: 3
-    m_TransformParent: {fileID: 0}
+    m_TransformParent: {fileID: 1274078610}
     m_Modifications:
     - target: {fileID: 242313204713083083, guid: 55b09354027074eb2bff2d6be525ee0e, type: 3}
       propertyPath: m_LocalPosition.x
-      value: -53.195114
+      value: -13.552605
       objectReference: {fileID: 0}
     - target: {fileID: 242313204713083083, guid: 55b09354027074eb2bff2d6be525ee0e, type: 3}
       propertyPath: m_LocalPosition.y
-      value: 0.9572363
+      value: -61.12655
       objectReference: {fileID: 0}
     - target: {fileID: 242313204713083083, guid: 55b09354027074eb2bff2d6be525ee0e, type: 3}
       propertyPath: m_LocalPosition.z
-      value: -158.75116
+      value: -177.45927
       objectReference: {fileID: 0}
     - target: {fileID: 242313204713083083, guid: 55b09354027074eb2bff2d6be525ee0e, type: 3}
       propertyPath: m_LocalRotation.w
@@ -47790,7 +47815,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 242313204713083083, guid: 55b09354027074eb2bff2d6be525ee0e, type: 3}
       propertyPath: m_LocalRotation.x
-      value: 0
+      value: -0
       objectReference: {fileID: 0}
     - target: {fileID: 242313204713083083, guid: 55b09354027074eb2bff2d6be525ee0e, type: 3}
       propertyPath: m_LocalRotation.y
@@ -47825,6 +47850,11 @@ PrefabInstance:
     m_AddedGameObjects: []
     m_AddedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 55b09354027074eb2bff2d6be525ee0e, type: 3}
+--- !u!4 &928955944 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 242313204713083083, guid: 55b09354027074eb2bff2d6be525ee0e, type: 3}
+  m_PrefabInstance: {fileID: 928955943}
+  m_PrefabAsset: {fileID: 0}
 --- !u!1001 &929085863
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -48856,7 +48886,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 5169120299889223852, guid: aeb89e94da9a84aab8d09b5c5f6c7312, type: 3}
       propertyPath: m_Name
-      value: DVDStack
+      value: DVDs
       objectReference: {fileID: 0}
     - target: {fileID: 5169120299889223852, guid: aeb89e94da9a84aab8d09b5c5f6c7312, type: 3}
       propertyPath: m_TagString
@@ -49658,7 +49688,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 327900445668506925, guid: 33a8c28b4f33d61478a68178b96b46b8, type: 3}
       propertyPath: m_Name
-      value: Book_02 (2)
+      value: Book
       objectReference: {fileID: 0}
     - target: {fileID: 327900445668506925, guid: 33a8c28b4f33d61478a68178b96b46b8, type: 3}
       propertyPath: m_TagString
@@ -50687,7 +50717,7 @@ AudioSource:
   OutputAudioMixerGroup: {fileID: 0}
   m_audioClip: {fileID: 8300000, guid: 95f27af5d8d89094c92d32d7dd68dcbb, type: 3}
   m_PlayOnAwake: 1
-  m_Volume: 0.2
+  m_Volume: 0.4
   m_Pitch: 1
   Loop: 0
   Mute: 0
@@ -51089,19 +51119,19 @@ PrefabInstance:
   serializedVersion: 2
   m_Modification:
     serializedVersion: 3
-    m_TransformParent: {fileID: 0}
+    m_TransformParent: {fileID: 1274078610}
     m_Modifications:
     - target: {fileID: 8560884263868158704, guid: ba3db78bd860a4047a9666cab79b451b, type: 3}
       propertyPath: m_LocalPosition.x
-      value: -55.802113
+      value: -16.159603
       objectReference: {fileID: 0}
     - target: {fileID: 8560884263868158704, guid: ba3db78bd860a4047a9666cab79b451b, type: 3}
       propertyPath: m_LocalPosition.y
-      value: 0.95723534
+      value: -61.12655
       objectReference: {fileID: 0}
     - target: {fileID: 8560884263868158704, guid: ba3db78bd860a4047a9666cab79b451b, type: 3}
       propertyPath: m_LocalPosition.z
-      value: -159.07
+      value: -177.77812
       objectReference: {fileID: 0}
     - target: {fileID: 8560884263868158704, guid: ba3db78bd860a4047a9666cab79b451b, type: 3}
       propertyPath: m_LocalRotation.w
@@ -51109,7 +51139,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 8560884263868158704, guid: ba3db78bd860a4047a9666cab79b451b, type: 3}
       propertyPath: m_LocalRotation.x
-      value: 0
+      value: -0
       objectReference: {fileID: 0}
     - target: {fileID: 8560884263868158704, guid: ba3db78bd860a4047a9666cab79b451b, type: 3}
       propertyPath: m_LocalRotation.y
@@ -51144,6 +51174,11 @@ PrefabInstance:
     m_AddedGameObjects: []
     m_AddedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: ba3db78bd860a4047a9666cab79b451b, type: 3}
+--- !u!4 &988082654 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 8560884263868158704, guid: ba3db78bd860a4047a9666cab79b451b, type: 3}
+  m_PrefabInstance: {fileID: 988082653}
+  m_PrefabAsset: {fileID: 0}
 --- !u!1 &988502573 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: 2748047335250392246, guid: e0fa5f46cd199634fa68027bc87f471f, type: 3}
@@ -51303,7 +51338,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: 01adef1d3a00c5c4ea00c44783a355c1, type: 3}
       propertyPath: m_Name
-      value: Small_Cactus
+      value: Small Cactus
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -52505,7 +52540,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 5501463826058496379, guid: a13d069b2efd7874bb438cec39d00001, type: 3}
       propertyPath: m_Name
-      value: Book_03 (6)
+      value: Book
       objectReference: {fileID: 0}
     - target: {fileID: 5501463826058496379, guid: a13d069b2efd7874bb438cec39d00001, type: 3}
       propertyPath: m_TagString
@@ -53216,7 +53251,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 3001566217732221852, guid: 7b4362bf190614dc8b214866baab5eaf, type: 3}
       propertyPath: m_Name
-      value: Water_Bottle
+      value: Water Bottle
       objectReference: {fileID: 0}
     - target: {fileID: 3001566217732221852, guid: 7b4362bf190614dc8b214866baab5eaf, type: 3}
       propertyPath: m_TagString
@@ -53923,7 +53958,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 8594454235211346416, guid: 0250cf49b0b39480caf84c3f5bfcca74, type: 3}
       propertyPath: m_Name
-      value: RubbishBin
+      value: Trash Can
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -55106,7 +55141,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 3300813250436546168, guid: d8c436b59b09f4ba886864b54caf30d9, type: 3}
       propertyPath: m_Name
-      value: Toilet_Paper_Rolls
+      value: Toilet Paper Rolls
       objectReference: {fileID: 0}
     - target: {fileID: 3300813250436546168, guid: d8c436b59b09f4ba886864b54caf30d9, type: 3}
       propertyPath: m_TagString
@@ -56916,7 +56951,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 5653038159197913342, guid: 76cfdc2f6ecc74ca38e61a1f26191521, type: 3}
       propertyPath: m_Name
-      value: Computer_Monitor
+      value: Computer Monitor
       objectReference: {fileID: 0}
     - target: {fileID: 5653038159197913342, guid: 76cfdc2f6ecc74ca38e61a1f26191521, type: 3}
       propertyPath: m_TagString
@@ -57907,7 +57942,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 6625034895895218904, guid: c995cdd6997b34119b76162b71e0bfb1, type: 3}
       propertyPath: m_Name
-      value: Books11
+      value: Books
       objectReference: {fileID: 0}
     - target: {fileID: 6625034895895218904, guid: c995cdd6997b34119b76162b71e0bfb1, type: 3}
       propertyPath: m_TagString
@@ -58768,7 +58803,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 4981740150382868506, guid: b5719168256cd4803a4628c91882788f, type: 3}
       propertyPath: m_Name
-      value: Game_Console
+      value: Game Console
       objectReference: {fileID: 0}
     - target: {fileID: 4981740150382868506, guid: b5719168256cd4803a4628c91882788f, type: 3}
       propertyPath: m_TagString
@@ -58898,7 +58933,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 4111823549340944168, guid: a7581c422d68c894b8e1f79d4a93ec06, type: 3}
       propertyPath: m_Name
-      value: Book_01 (18)
+      value: Book
       objectReference: {fileID: 0}
     - target: {fileID: 4111823549340944168, guid: a7581c422d68c894b8e1f79d4a93ec06, type: 3}
       propertyPath: m_TagString
@@ -59664,7 +59699,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 3068490958317334761, guid: 2f473beeb5f60429680a144bcb377b82, type: 3}
       propertyPath: m_Name
-      value: External_HDD1
+      value: External HDD1
       objectReference: {fileID: 0}
     - target: {fileID: 3068490958317334761, guid: 2f473beeb5f60429680a144bcb377b82, type: 3}
       propertyPath: m_TagString
@@ -60784,7 +60819,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 527263928828708222, guid: 332a689b4f4464078a3419063ccc8487, type: 3}
       propertyPath: m_Name
-      value: Note2
+      value: Note
       objectReference: {fileID: 0}
     - target: {fileID: 527263928828708222, guid: 332a689b4f4464078a3419063ccc8487, type: 3}
       propertyPath: m_TagString
@@ -60976,7 +61011,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 100000, guid: e7466800e8d78144592a7a6f327d60e0, type: 3}
       propertyPath: m_Name
-      value: Pill_Pack
+      value: Pill Pack
       objectReference: {fileID: 0}
     - target: {fileID: 100000, guid: e7466800e8d78144592a7a6f327d60e0, type: 3}
       propertyPath: m_TagString
@@ -61332,19 +61367,19 @@ PrefabInstance:
   serializedVersion: 2
   m_Modification:
     serializedVersion: 3
-    m_TransformParent: {fileID: 0}
+    m_TransformParent: {fileID: 1274078610}
     m_Modifications:
     - target: {fileID: -8679921383154817045, guid: d846caa23aac4814b9e61d4fdd2a814f, type: 3}
       propertyPath: m_LocalPosition.x
-      value: -59.11
+      value: -19.467491
       objectReference: {fileID: 0}
     - target: {fileID: -8679921383154817045, guid: d846caa23aac4814b9e61d4fdd2a814f, type: 3}
       propertyPath: m_LocalPosition.y
-      value: 0.95723724
+      value: -61.12655
       objectReference: {fileID: 0}
     - target: {fileID: -8679921383154817045, guid: d846caa23aac4814b9e61d4fdd2a814f, type: 3}
       propertyPath: m_LocalPosition.z
-      value: -167.58
+      value: -186.28812
       objectReference: {fileID: 0}
     - target: {fileID: -8679921383154817045, guid: d846caa23aac4814b9e61d4fdd2a814f, type: 3}
       propertyPath: m_LocalRotation.w
@@ -61352,7 +61387,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: -8679921383154817045, guid: d846caa23aac4814b9e61d4fdd2a814f, type: 3}
       propertyPath: m_LocalRotation.x
-      value: 0
+      value: -0
       objectReference: {fileID: 0}
     - target: {fileID: -8679921383154817045, guid: d846caa23aac4814b9e61d4fdd2a814f, type: 3}
       propertyPath: m_LocalRotation.y
@@ -61360,7 +61395,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: -8679921383154817045, guid: d846caa23aac4814b9e61d4fdd2a814f, type: 3}
       propertyPath: m_LocalRotation.z
-      value: 0
+      value: -0
       objectReference: {fileID: 0}
     - target: {fileID: -8679921383154817045, guid: d846caa23aac4814b9e61d4fdd2a814f, type: 3}
       propertyPath: m_LocalEulerAnglesHint.x
@@ -61383,6 +61418,11 @@ PrefabInstance:
     m_AddedGameObjects: []
     m_AddedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: d846caa23aac4814b9e61d4fdd2a814f, type: 3}
+--- !u!4 &1218244285 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: -8679921383154817045, guid: d846caa23aac4814b9e61d4fdd2a814f, type: 3}
+  m_PrefabInstance: {fileID: 1218244284}
+  m_PrefabAsset: {fileID: 0}
 --- !u!1001 &1221476053
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -61777,7 +61817,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 4111823549340944168, guid: a7581c422d68c894b8e1f79d4a93ec06, type: 3}
       propertyPath: m_Name
-      value: Book_01 (9)
+      value: Book
       objectReference: {fileID: 0}
     - target: {fileID: 4111823549340944168, guid: a7581c422d68c894b8e1f79d4a93ec06, type: 3}
       propertyPath: m_TagString
@@ -62482,7 +62522,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 100000, guid: d897d5a59a980534b83402380e1e4457, type: 3}
       propertyPath: m_Name
-      value: WalkieTalkie1
+      value: Walkie Talkie
       objectReference: {fileID: 0}
     - target: {fileID: 100000, guid: d897d5a59a980534b83402380e1e4457, type: 3}
       propertyPath: m_TagString
@@ -63135,7 +63175,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 6320065199404775559, guid: 03afb720991ed4978bd59f153ddf70b8, type: 3}
       propertyPath: m_Name
-      value: VHS_Tape
+      value: VHS Tape
       objectReference: {fileID: 0}
     - target: {fileID: 6320065199404775559, guid: 03afb720991ed4978bd59f153ddf70b8, type: 3}
       propertyPath: m_TagString
@@ -63470,7 +63510,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 4111823549340944168, guid: a7581c422d68c894b8e1f79d4a93ec06, type: 3}
       propertyPath: m_Name
-      value: Book_01 (15)
+      value: Book
       objectReference: {fileID: 0}
     - target: {fileID: 4111823549340944168, guid: a7581c422d68c894b8e1f79d4a93ec06, type: 3}
       propertyPath: m_TagString
@@ -63788,7 +63828,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: 5369dcca2a97a3e46922ab8f5ce42e44, type: 3}
       propertyPath: m_Name
-      value: Large_Cactus
+      value: Large Cactus
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -64411,6 +64451,17 @@ Transform:
   - {fileID: 69593658}
   - {fileID: 473687268}
   - {fileID: 1893132212}
+  - {fileID: 289296230}
+  - {fileID: 2044945029}
+  - {fileID: 928955944}
+  - {fileID: 2006563554}
+  - {fileID: 839600075}
+  - {fileID: 805057010}
+  - {fileID: 376102313}
+  - {fileID: 1773505623}
+  - {fileID: 988082654}
+  - {fileID: 920775126}
+  - {fileID: 1218244285}
   m_Father: {fileID: 0}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1001 &1274543694
@@ -65051,7 +65102,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: 9262ec3927a4a90439e4d0a80f5e44f8, type: 3}
       propertyPath: m_Name
-      value: Brown_Shoe
+      value: Brown Shoe
       objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: 9262ec3927a4a90439e4d0a80f5e44f8, type: 3}
       propertyPath: m_TagString
@@ -65446,7 +65497,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 4111823549340944168, guid: a7581c422d68c894b8e1f79d4a93ec06, type: 3}
       propertyPath: m_Name
-      value: Book_01 (14)
+      value: Book
       objectReference: {fileID: 0}
     - target: {fileID: 4111823549340944168, guid: a7581c422d68c894b8e1f79d4a93ec06, type: 3}
       propertyPath: m_TagString
@@ -65701,7 +65752,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: baac9b290c52a7f4e82e15e5f05adac6, type: 3}
       propertyPath: m_Name
-      value: Red_Shoe
+      value: Red Shoe
       objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: baac9b290c52a7f4e82e15e5f05adac6, type: 3}
       propertyPath: m_TagString
@@ -66512,7 +66563,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: e849c4c0a05e9a14fa440297c3e84dd6, type: 3}
       propertyPath: m_Name
-      value: Green_Shoe
+      value: Green Shoe
       objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: e849c4c0a05e9a14fa440297c3e84dd6, type: 3}
       propertyPath: m_TagString
@@ -67049,7 +67100,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 5183444513237237187, guid: 3e9fe371ae9f6c14395120311c9a19e9, type: 3}
       propertyPath: m_Name
-      value: Pet_Food_Can
+      value: Pet Food Can
       objectReference: {fileID: 0}
     - target: {fileID: 5183444513237237187, guid: 3e9fe371ae9f6c14395120311c9a19e9, type: 3}
       propertyPath: m_TagString
@@ -67228,7 +67279,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 4111823549340944168, guid: a7581c422d68c894b8e1f79d4a93ec06, type: 3}
       propertyPath: m_Name
-      value: Book_01 (4)
+      value: Book
       objectReference: {fileID: 0}
     - target: {fileID: 4111823549340944168, guid: a7581c422d68c894b8e1f79d4a93ec06, type: 3}
       propertyPath: m_TagString
@@ -67622,7 +67673,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 6299328208591831595, guid: 7dbc3b1a798ba4ab0a4170b2d0d702d3, type: 3}
       propertyPath: m_Name
-      value: Folder_Holder
+      value: Folder Holder
       objectReference: {fileID: 0}
     - target: {fileID: 6299328208591831595, guid: 7dbc3b1a798ba4ab0a4170b2d0d702d3, type: 3}
       propertyPath: m_TagString
@@ -69208,7 +69259,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 3251266912682044776, guid: a1436e75552bd4629878713d6b00ee53, type: 3}
       propertyPath: m_Name
-      value: Computer_Keyboard
+      value: Computer Keyboard
       objectReference: {fileID: 0}
     - target: {fileID: 3251266912682044776, guid: a1436e75552bd4629878713d6b00ee53, type: 3}
       propertyPath: m_TagString
@@ -70360,7 +70411,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: ed6e426d8c165444dbe9a79e5a729be9, type: 3}
       propertyPath: m_Name
-      value: Lobster_Toy
+      value: Lobster Toy
       objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: ed6e426d8c165444dbe9a79e5a729be9, type: 3}
       propertyPath: m_TagString
@@ -71063,7 +71114,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 4111823549340944168, guid: a7581c422d68c894b8e1f79d4a93ec06, type: 3}
       propertyPath: m_Name
-      value: Book_01 (17)
+      value: Book
       objectReference: {fileID: 0}
     - target: {fileID: 4111823549340944168, guid: a7581c422d68c894b8e1f79d4a93ec06, type: 3}
       propertyPath: m_TagString
@@ -71232,7 +71283,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 6485191879640745135, guid: 96159a95fe9074935943d4aa4c4cc510, type: 3}
       propertyPath: m_Name
-      value: Trophy1
+      value: Trophy
       objectReference: {fileID: 0}
     - target: {fileID: 6485191879640745135, guid: 96159a95fe9074935943d4aa4c4cc510, type: 3}
       propertyPath: m_TagString
@@ -71322,7 +71373,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 4111823549340944168, guid: a7581c422d68c894b8e1f79d4a93ec06, type: 3}
       propertyPath: m_Name
-      value: Book_01 (1)
+      value: Book
       objectReference: {fileID: 0}
     - target: {fileID: 4111823549340944168, guid: a7581c422d68c894b8e1f79d4a93ec06, type: 3}
       propertyPath: m_TagString
@@ -72140,7 +72191,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 4111823549340944168, guid: a7581c422d68c894b8e1f79d4a93ec06, type: 3}
       propertyPath: m_Name
-      value: Book_01 (10)
+      value: Book
       objectReference: {fileID: 0}
     - target: {fileID: 4111823549340944168, guid: a7581c422d68c894b8e1f79d4a93ec06, type: 3}
       propertyPath: m_TagString
@@ -73588,7 +73639,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 6767071008523849913, guid: c18db9c1a39d84acb805a660beb8ee48, type: 3}
       propertyPath: m_Name
-      value: Sleeping_Mat
+      value: Sleeping Mat
       objectReference: {fileID: 0}
     - target: {fileID: 6767071008523849913, guid: c18db9c1a39d84acb805a660beb8ee48, type: 3}
       propertyPath: m_TagString
@@ -73720,7 +73771,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 3001566217732221852, guid: 7b4362bf190614dc8b214866baab5eaf, type: 3}
       propertyPath: m_Name
-      value: Water_Bottle
+      value: Water Bottle
       objectReference: {fileID: 0}
     - target: {fileID: 3001566217732221852, guid: 7b4362bf190614dc8b214866baab5eaf, type: 3}
       propertyPath: m_TagString
@@ -74536,7 +74587,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 447400912691469324, guid: e0f17a16062e7c84eb7b70b512c6fd5a, type: 3}
       propertyPath: m_Name
-      value: Pet_Food_Can2
+      value: Pet Food Can
       objectReference: {fileID: 0}
     - target: {fileID: 447400912691469324, guid: e0f17a16062e7c84eb7b70b512c6fd5a, type: 3}
       propertyPath: m_TagString
@@ -75161,7 +75212,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 4611320756293672443, guid: 29c1be033c8f84300963eb1c49cb428a, type: 3}
       propertyPath: m_Name
-      value: ToolBoard1
+      value: Tool Board
       objectReference: {fileID: 0}
     - target: {fileID: 7143693405215780166, guid: 29c1be033c8f84300963eb1c49cb428a, type: 3}
       propertyPath: m_LocalPosition.x
@@ -75258,7 +75309,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 9017091950765272399, guid: 88704222e3a674b428ad5069e2c80733, type: 3}
       propertyPath: m_Name
-      value: Can3
+      value: Can
       objectReference: {fileID: 0}
     - target: {fileID: 9017091950765272399, guid: 88704222e3a674b428ad5069e2c80733, type: 3}
       propertyPath: m_TagString
@@ -75973,7 +76024,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 5972516754178755841, guid: 52f0bcabe356d475696b34813b4de102, type: 3}
       propertyPath: m_Name
-      value: ToolBox
+      value: Tool Box
       objectReference: {fileID: 0}
     - target: {fileID: 5972516754178755841, guid: 52f0bcabe356d475696b34813b4de102, type: 3}
       propertyPath: m_TagString
@@ -76177,7 +76228,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 5169120299889223852, guid: aeb89e94da9a84aab8d09b5c5f6c7312, type: 3}
       propertyPath: m_Name
-      value: DVDStack
+      value: DVDs
       objectReference: {fileID: 0}
     - target: {fileID: 5169120299889223852, guid: aeb89e94da9a84aab8d09b5c5f6c7312, type: 3}
       propertyPath: m_TagString
@@ -76427,7 +76478,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 8548824061632648829, guid: 4a0a6f61593b34cbc9c00c61be39ee82, type: 3}
       propertyPath: m_Name
-      value: Jar1
+      value: Jar
       objectReference: {fileID: 0}
     - target: {fileID: 8548824061632648829, guid: 4a0a6f61593b34cbc9c00c61be39ee82, type: 3}
       propertyPath: m_TagString
@@ -76518,7 +76569,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 3689195627669579801, guid: 460cd959980cc473b9b52097f5e7ec98, type: 3}
       propertyPath: m_Name
-      value: DrinkCup
+      value: Water Bottle
       objectReference: {fileID: 0}
     - target: {fileID: 3689195627669579801, guid: 460cd959980cc473b9b52097f5e7ec98, type: 3}
       propertyPath: m_TagString
@@ -77585,7 +77636,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 100000, guid: cd02f8d943f809b46a0fed615f8aacad, type: 3}
       propertyPath: m_Name
-      value: Battery_1
+      value: Battery
       objectReference: {fileID: 0}
     - target: {fileID: 100000, guid: cd02f8d943f809b46a0fed615f8aacad, type: 3}
       propertyPath: m_TagString
@@ -78101,7 +78152,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 5495384538827137192, guid: e993021a3535848e2bbcaa5c8b172113, type: 3}
       propertyPath: m_Name
-      value: Note_Pad
+      value: Note Pad
       objectReference: {fileID: 0}
     - target: {fileID: 5495384538827137192, guid: e993021a3535848e2bbcaa5c8b172113, type: 3}
       propertyPath: m_TagString
@@ -78403,7 +78454,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 1213239533679310037, guid: 183306c85a8b83f4abbab704f8e8983a, type: 3}
       propertyPath: m_Name
-      value: NoteBook_01
+      value: Notebook
       objectReference: {fileID: 0}
     - target: {fileID: 1213239533679310037, guid: 183306c85a8b83f4abbab704f8e8983a, type: 3}
       propertyPath: m_TagString
@@ -79721,7 +79772,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 327900445668506925, guid: 33a8c28b4f33d61478a68178b96b46b8, type: 3}
       propertyPath: m_Name
-      value: Book_02 (3)
+      value: Book
       objectReference: {fileID: 0}
     - target: {fileID: 327900445668506925, guid: 33a8c28b4f33d61478a68178b96b46b8, type: 3}
       propertyPath: m_TagString
@@ -80193,7 +80244,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 4111823549340944168, guid: a7581c422d68c894b8e1f79d4a93ec06, type: 3}
       propertyPath: m_Name
-      value: Book_01 (13)
+      value: Book
       objectReference: {fileID: 0}
     - target: {fileID: 4111823549340944168, guid: a7581c422d68c894b8e1f79d4a93ec06, type: 3}
       propertyPath: m_TagString
@@ -80370,7 +80421,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 362271778948495978, guid: fcee60bf92be97f45bcd757fe68c58e9, type: 3}
       propertyPath: m_Name
-      value: Book_04 (3)
+      value: Book
       objectReference: {fileID: 0}
     - target: {fileID: 362271778948495978, guid: fcee60bf92be97f45bcd757fe68c58e9, type: 3}
       propertyPath: m_TagString
@@ -82305,7 +82356,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 1719704658607585666, guid: afc5fe2d6f69f9749a341de30abbc71b, type: 3}
       propertyPath: m_Name
-      value: Pet_Medicine
+      value: Pet Medicine
       objectReference: {fileID: 0}
     - target: {fileID: 1719704658607585666, guid: afc5fe2d6f69f9749a341de30abbc71b, type: 3}
       propertyPath: m_TagString
@@ -82375,7 +82426,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 100000, guid: 99123debe759b874d874cb8d317756be, type: 3}
       propertyPath: m_Name
-      value: Canned_Food1
+      value: Canned Food
       objectReference: {fileID: 0}
     - target: {fileID: 100000, guid: 99123debe759b874d874cb8d317756be, type: 3}
       propertyPath: m_TagString
@@ -83226,7 +83277,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 4111823549340944168, guid: a7581c422d68c894b8e1f79d4a93ec06, type: 3}
       propertyPath: m_Name
-      value: Book_01 (16)
+      value: Book
       objectReference: {fileID: 0}
     - target: {fileID: 4111823549340944168, guid: a7581c422d68c894b8e1f79d4a93ec06, type: 3}
       propertyPath: m_TagString
@@ -83795,7 +83846,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 5501463826058496379, guid: a13d069b2efd7874bb438cec39d00001, type: 3}
       propertyPath: m_Name
-      value: Book_03 (5)
+      value: Book
       objectReference: {fileID: 0}
     - target: {fileID: 5501463826058496379, guid: a13d069b2efd7874bb438cec39d00001, type: 3}
       propertyPath: m_TagString
@@ -84101,7 +84152,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: Take keys to car to evacuate early
+  m_text: Take keys to car to evacuate before time runs out.
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
   m_sharedMaterial: {fileID: 2180264, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
@@ -84128,8 +84179,8 @@ MonoBehaviour:
   m_faceColor:
     serializedVersion: 2
     rgba: 4294967295
-  m_fontSize: 36
-  m_fontSizeBase: 36
+  m_fontSize: 28
+  m_fontSizeBase: 28
   m_fontWeight: 400
   m_enableAutoSizing: 0
   m_fontSizeMin: 18
@@ -84295,7 +84346,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 5501463826058496379, guid: a13d069b2efd7874bb438cec39d00001, type: 3}
       propertyPath: m_Name
-      value: Book_03 (4)
+      value: Book
       objectReference: {fileID: 0}
     - target: {fileID: 5501463826058496379, guid: a13d069b2efd7874bb438cec39d00001, type: 3}
       propertyPath: m_TagString
@@ -84525,7 +84576,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: 0118cc1e0bfb4994f94258f36bdf1e61, type: 3}
       propertyPath: m_Name
-      value: Cat_Toy
+      value: Cat Toy
       objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: 0118cc1e0bfb4994f94258f36bdf1e61, type: 3}
       propertyPath: m_TagString
@@ -85122,7 +85173,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 5043118111298811650, guid: d091373c8b5c1a2499defd51ecfcef5b, type: 3}
       propertyPath: m_LocalPosition.x
-      value: -62.677
+      value: -63.299
       objectReference: {fileID: 0}
     - target: {fileID: 5043118111298811650, guid: d091373c8b5c1a2499defd51ecfcef5b, type: 3}
       propertyPath: m_LocalPosition.y
@@ -85186,7 +85237,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 5672021632357346744, guid: d091373c8b5c1a2499defd51ecfcef5b, type: 3}
       propertyPath: m_Name
-      value: Cat_Carrier
+      value: Cat Carrier
       objectReference: {fileID: 0}
     - target: {fileID: 5672021632357346744, guid: d091373c8b5c1a2499defd51ecfcef5b, type: 3}
       propertyPath: m_TagString
@@ -86408,7 +86459,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 4396530152913391292, guid: 93309696ef1aa4a1caa6994e2daa6ace, type: 3}
       propertyPath: m_Name
-      value: Game_Controller
+      value: Game Controller
       objectReference: {fileID: 0}
     - target: {fileID: 4396530152913391292, guid: 93309696ef1aa4a1caa6994e2daa6ace, type: 3}
       propertyPath: m_TagString
@@ -86768,7 +86819,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: baac9b290c52a7f4e82e15e5f05adac6, type: 3}
       propertyPath: m_Name
-      value: Red_Shoe
+      value: Red Shoe
       objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: baac9b290c52a7f4e82e15e5f05adac6, type: 3}
       propertyPath: m_TagString
@@ -87239,7 +87290,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 6083885618915754691, guid: ff64d301402ef4143ba1689004e3a31e, type: 3}
       propertyPath: m_LocalPosition.y
-      value: 2.231
+      value: 2.446
       objectReference: {fileID: 0}
     - target: {fileID: 6083885618915754691, guid: ff64d301402ef4143ba1689004e3a31e, type: 3}
       propertyPath: m_LocalPosition.z
@@ -87469,7 +87520,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 2312366830186882917, guid: 4b7e4013a16f1ce49a61d5e561b4a841, type: 3}
       propertyPath: m_Name
-      value: First_Aid_Kit
+      value: First Aid Kit
       objectReference: {fileID: 0}
     - target: {fileID: 2312366830186882917, guid: 4b7e4013a16f1ce49a61d5e561b4a841, type: 3}
       propertyPath: m_TagString
@@ -88048,7 +88099,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 4111823549340944168, guid: a7581c422d68c894b8e1f79d4a93ec06, type: 3}
       propertyPath: m_Name
-      value: Book_01 (11)
+      value: Book
       objectReference: {fileID: 0}
     - target: {fileID: 4111823549340944168, guid: a7581c422d68c894b8e1f79d4a93ec06, type: 3}
       propertyPath: m_TagString
@@ -88981,7 +89032,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: 5afde087f6d406e438bc00d86c5e0504, type: 3}
       propertyPath: m_Name
-      value: kn95Mask
+      value: KN95 Mask
       objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: 5afde087f6d406e438bc00d86c5e0504, type: 3}
       propertyPath: m_TagString
@@ -89376,7 +89427,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 3055807312057066853, guid: 61c5c581e21bf43b4b9c23cf4573a66c, type: 3}
       propertyPath: m_Name
-      value: Can4
+      value: Can
       objectReference: {fileID: 0}
     - target: {fileID: 3055807312057066853, guid: 61c5c581e21bf43b4b9c23cf4573a66c, type: 3}
       propertyPath: m_TagString
@@ -89627,7 +89678,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 5031478097651638237, guid: 607d02edf9daa4b338a7fe434d088afb, type: 3}
       propertyPath: m_Name
-      value: Grandma_Urn
+      value: Grandma's Urn
       objectReference: {fileID: 0}
     - target: {fileID: 5031478097651638237, guid: 607d02edf9daa4b338a7fe434d088afb, type: 3}
       propertyPath: m_TagString
@@ -89909,7 +89960,7 @@ PrefabInstance:
   serializedVersion: 2
   m_Modification:
     serializedVersion: 3
-    m_TransformParent: {fileID: 0}
+    m_TransformParent: {fileID: 1274078610}
     m_Modifications:
     - target: {fileID: 6665456754139741372, guid: 83b933a47e8ce4f0d9abdf2e83c9b7f6, type: 3}
       propertyPath: m_Name
@@ -89921,15 +89972,15 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 9137590671992158344, guid: 83b933a47e8ce4f0d9abdf2e83c9b7f6, type: 3}
       propertyPath: m_LocalPosition.x
-      value: -54.585003
+      value: -14.942493
       objectReference: {fileID: 0}
     - target: {fileID: 9137590671992158344, guid: 83b933a47e8ce4f0d9abdf2e83c9b7f6, type: 3}
       propertyPath: m_LocalPosition.y
-      value: 0.95723534
+      value: -61.12655
       objectReference: {fileID: 0}
     - target: {fileID: 9137590671992158344, guid: 83b933a47e8ce4f0d9abdf2e83c9b7f6, type: 3}
       propertyPath: m_LocalPosition.z
-      value: -158.54303
+      value: -177.25114
       objectReference: {fileID: 0}
     - target: {fileID: 9137590671992158344, guid: 83b933a47e8ce4f0d9abdf2e83c9b7f6, type: 3}
       propertyPath: m_LocalRotation.w
@@ -89937,7 +89988,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 9137590671992158344, guid: 83b933a47e8ce4f0d9abdf2e83c9b7f6, type: 3}
       propertyPath: m_LocalRotation.x
-      value: 0
+      value: -0
       objectReference: {fileID: 0}
     - target: {fileID: 9137590671992158344, guid: 83b933a47e8ce4f0d9abdf2e83c9b7f6, type: 3}
       propertyPath: m_LocalRotation.y
@@ -89964,6 +90015,11 @@ PrefabInstance:
     m_AddedGameObjects: []
     m_AddedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 83b933a47e8ce4f0d9abdf2e83c9b7f6, type: 3}
+--- !u!4 &1773505623 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 9137590671992158344, guid: 83b933a47e8ce4f0d9abdf2e83c9b7f6, type: 3}
+  m_PrefabInstance: {fileID: 1773505622}
+  m_PrefabAsset: {fileID: 0}
 --- !u!1001 &1780797731
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -90092,7 +90148,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 362271778948495978, guid: fcee60bf92be97f45bcd757fe68c58e9, type: 3}
       propertyPath: m_Name
-      value: Book_04 (4)
+      value: Book
       objectReference: {fileID: 0}
     - target: {fileID: 362271778948495978, guid: fcee60bf92be97f45bcd757fe68c58e9, type: 3}
       propertyPath: m_TagString
@@ -90393,7 +90449,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 1167996961932038864, guid: 31a3d08b6b2a94d04b373b90770982a3, type: 3}
       propertyPath: m_Name
-      value: Medicine_Box
+      value: Medicine Box
       objectReference: {fileID: 0}
     - target: {fileID: 1167996961932038864, guid: 31a3d08b6b2a94d04b373b90770982a3, type: 3}
       propertyPath: m_TagString
@@ -90475,7 +90531,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: 9262ec3927a4a90439e4d0a80f5e44f8, type: 3}
       propertyPath: m_Name
-      value: Brown_Shoe
+      value: Brown Shoe
       objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: 9262ec3927a4a90439e4d0a80f5e44f8, type: 3}
       propertyPath: m_TagString
@@ -96808,7 +96864,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: d51eb8a3e1719924fbfd2c6cbbca9c98, type: 3}
       propertyPath: m_Name
-      value: Book_11
+      value: Book
       objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: d51eb8a3e1719924fbfd2c6cbbca9c98, type: 3}
       propertyPath: m_TagString
@@ -96838,7 +96894,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 100000, guid: 48c71b8daff335c4a9c38ea4f27f8187, type: 3}
       propertyPath: m_Name
-      value: Silver_Food_Can
+      value: Canned Food
       objectReference: {fileID: 0}
     - target: {fileID: 100000, guid: 48c71b8daff335c4a9c38ea4f27f8187, type: 3}
       propertyPath: m_TagString
@@ -97120,7 +97176,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: 48367b371fbbdf841ba365ec59da8bbc, type: 3}
       propertyPath: m_Name
-      value: Photo_Album
+      value: Photo Album
       objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: 48367b371fbbdf841ba365ec59da8bbc, type: 3}
       propertyPath: m_TagString
@@ -97193,7 +97249,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 4327217634252809517, guid: a59c916fe5b334029a449b55990c9d5b, type: 3}
       propertyPath: m_Name
-      value: Drink_Carton
+      value: Juice Carton
       objectReference: {fileID: 0}
     - target: {fileID: 4327217634252809517, guid: a59c916fe5b334029a449b55990c9d5b, type: 3}
       propertyPath: m_TagString
@@ -97404,7 +97460,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 100000, guid: e61dea89dea47fa478a682681343be97, type: 3}
       propertyPath: m_Name
-      value: Medication_Jar
+      value: Medication Jar
       objectReference: {fileID: 0}
     - target: {fileID: 100000, guid: e61dea89dea47fa478a682681343be97, type: 3}
       propertyPath: m_TagString
@@ -98155,7 +98211,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 7416090142961372461, guid: f800cefc764b540e299d6c46352cbdad, type: 3}
       propertyPath: m_Name
-      value: Open_Book
+      value: Open Book
       objectReference: {fileID: 0}
     - target: {fileID: 7416090142961372461, guid: f800cefc764b540e299d6c46352cbdad, type: 3}
       propertyPath: m_TagString
@@ -98537,7 +98593,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 4830202439299352115, guid: d2e297276c0cc407c8307e4c53b4561f, type: 3}
       propertyPath: m_Name
-      value: Folder_Tray
+      value: Folder Tray
       objectReference: {fileID: 0}
     - target: {fileID: 4830202439299352115, guid: d2e297276c0cc407c8307e4c53b4561f, type: 3}
       propertyPath: m_TagString
@@ -98804,7 +98860,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 4425973907709372050, guid: ca46da24711fa4cd38bc180b9c55a51a, type: 3}
       propertyPath: m_LocalPosition.x
-      value: -63.764
+      value: -64.162
       objectReference: {fileID: 0}
     - target: {fileID: 4425973907709372050, guid: ca46da24711fa4cd38bc180b9c55a51a, type: 3}
       propertyPath: m_LocalPosition.y
@@ -98844,7 +98900,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 5951132533024384260, guid: ca46da24711fa4cd38bc180b9c55a51a, type: 3}
       propertyPath: m_Name
-      value: PetBowl
+      value: Pet Bowl
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -99144,7 +99200,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 4962498327967386721, guid: 721f7e8c6e02149b6abfc60d1463c9ec, type: 3}
       propertyPath: m_Name
-      value: Game_Console
+      value: Game Console
       objectReference: {fileID: 0}
     - target: {fileID: 4962498327967386721, guid: 721f7e8c6e02149b6abfc60d1463c9ec, type: 3}
       propertyPath: m_TagString
@@ -99807,7 +99863,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 5587437515491066338, guid: 2ddf1684d4a2993469e6e913e0979768, type: 3}
       propertyPath: m_Name
-      value: NoteBook_02
+      value: Notebook
       objectReference: {fileID: 0}
     - target: {fileID: 5587437515491066338, guid: 2ddf1684d4a2993469e6e913e0979768, type: 3}
       propertyPath: m_TagString
@@ -100146,7 +100202,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 3720696037639978469, guid: f0aa9983fcbe84bb2a0891a30d88b717, type: 3}
       propertyPath: m_Name
-      value: ID_Card
+      value: ID Card
       objectReference: {fileID: 0}
     - target: {fileID: 3720696037639978469, guid: f0aa9983fcbe84bb2a0891a30d88b717, type: 3}
       propertyPath: m_TagString
@@ -100417,7 +100473,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 2562305520017081776, guid: da4bc780a7cdf4190baa67555de810ee, type: 3}
       propertyPath: m_Name
-      value: Paper_Rolls
+      value: Paper Rolls
       objectReference: {fileID: 0}
     - target: {fileID: 2562305520017081776, guid: da4bc780a7cdf4190baa67555de810ee, type: 3}
       propertyPath: m_TagString
@@ -100518,7 +100574,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 5584610782595078726, guid: 5cd4b821e7ea24ddc9cc8aa03c3b8397, type: 3}
       propertyPath: m_Name
-      value: Mug_Pens
+      value: Mug Pens
       objectReference: {fileID: 0}
     - target: {fileID: 5584610782595078726, guid: 5cd4b821e7ea24ddc9cc8aa03c3b8397, type: 3}
       propertyPath: m_TagString
@@ -101246,7 +101302,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 7805928414741723911, guid: 01a3e936eb0474494aa9287eb0edbda2, type: 3}
       propertyPath: m_Name
-      value: Jar2
+      value: Jar
       objectReference: {fileID: 0}
     - target: {fileID: 7805928414741723911, guid: 01a3e936eb0474494aa9287eb0edbda2, type: 3}
       propertyPath: m_TagString
@@ -101419,7 +101475,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 9077834640438449822, guid: 0aeac73118df4914d9ff317f23ca25a1, type: 3}
       propertyPath: m_Name
-      value: Badge_Award
+      value: Badge Award
       objectReference: {fileID: 0}
     - target: {fileID: 9077834640438449822, guid: 0aeac73118df4914d9ff317f23ca25a1, type: 3}
       propertyPath: m_TagString
@@ -101982,7 +102038,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 100000, guid: d897d5a59a980534b83402380e1e4457, type: 3}
       propertyPath: m_Name
-      value: WalkieTalkie2
+      value: Walkie Talkie
       objectReference: {fileID: 0}
     - target: {fileID: 100000, guid: d897d5a59a980534b83402380e1e4457, type: 3}
       propertyPath: m_TagString
@@ -102928,7 +102984,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: 594c92d314e3f0947a1fb74956e305b6, type: 3}
       propertyPath: m_Name
-      value: Toothpaste_02
+      value: Toothpaste
       objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: 594c92d314e3f0947a1fb74956e305b6, type: 3}
       propertyPath: m_TagString
@@ -104008,7 +104064,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 8640160420202277736, guid: 4e064493f1e63b548981ba0286565123, type: 3}
       propertyPath: m_Name
-      value: NoteBook_03
+      value: Notebook
       objectReference: {fileID: 0}
     - target: {fileID: 8640160420202277736, guid: 4e064493f1e63b548981ba0286565123, type: 3}
       propertyPath: m_TagString
@@ -104254,7 +104310,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 4099481228763036660, guid: 51e23474549654f1bb7de22b78ed0f7c, type: 3}
       propertyPath: m_Name
-      value: Snack012
+      value: Snack
       objectReference: {fileID: 0}
     - target: {fileID: 7510323764120222434, guid: 51e23474549654f1bb7de22b78ed0f7c, type: 3}
       propertyPath: m_LocalPosition.x
@@ -104351,7 +104407,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 3001566217732221852, guid: 7b4362bf190614dc8b214866baab5eaf, type: 3}
       propertyPath: m_Name
-      value: Water_Bottle
+      value: Water Bottle
       objectReference: {fileID: 0}
     - target: {fileID: 3001566217732221852, guid: 7b4362bf190614dc8b214866baab5eaf, type: 3}
       propertyPath: m_TagString
@@ -105986,7 +106042,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 6320065199404775559, guid: 03afb720991ed4978bd59f153ddf70b8, type: 3}
       propertyPath: m_Name
-      value: VHS_Tape
+      value: VHS Tape
       objectReference: {fileID: 0}
     - target: {fileID: 6320065199404775559, guid: 03afb720991ed4978bd59f153ddf70b8, type: 3}
       propertyPath: m_TagString
@@ -106219,7 +106275,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 7146449223257018238, guid: 753dbeaf8356b45e08ad4526665670a1, type: 3}
       propertyPath: m_Name
-      value: Can1
+      value: Can
       objectReference: {fileID: 0}
     - target: {fileID: 7146449223257018238, guid: 753dbeaf8356b45e08ad4526665670a1, type: 3}
       propertyPath: m_TagString
@@ -107329,19 +107385,19 @@ PrefabInstance:
   serializedVersion: 2
   m_Modification:
     serializedVersion: 3
-    m_TransformParent: {fileID: 0}
+    m_TransformParent: {fileID: 1274078610}
     m_Modifications:
     - target: {fileID: 789657581152441592, guid: 59ec3c2175b8b484283625e7d08da656, type: 3}
       propertyPath: m_LocalPosition.x
-      value: -55.19
+      value: -15.547489
       objectReference: {fileID: 0}
     - target: {fileID: 789657581152441592, guid: 59ec3c2175b8b484283625e7d08da656, type: 3}
       propertyPath: m_LocalPosition.y
-      value: 0.9572358
+      value: -61.12655
       objectReference: {fileID: 0}
     - target: {fileID: 789657581152441592, guid: 59ec3c2175b8b484283625e7d08da656, type: 3}
       propertyPath: m_LocalPosition.z
-      value: -149.84
+      value: -168.54811
       objectReference: {fileID: 0}
     - target: {fileID: 789657581152441592, guid: 59ec3c2175b8b484283625e7d08da656, type: 3}
       propertyPath: m_LocalRotation.w
@@ -107349,7 +107405,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 789657581152441592, guid: 59ec3c2175b8b484283625e7d08da656, type: 3}
       propertyPath: m_LocalRotation.x
-      value: 0
+      value: -0
       objectReference: {fileID: 0}
     - target: {fileID: 789657581152441592, guid: 59ec3c2175b8b484283625e7d08da656, type: 3}
       propertyPath: m_LocalRotation.y
@@ -107380,6 +107436,11 @@ PrefabInstance:
     m_AddedGameObjects: []
     m_AddedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 59ec3c2175b8b484283625e7d08da656, type: 3}
+--- !u!4 &2006563554 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 789657581152441592, guid: 59ec3c2175b8b484283625e7d08da656, type: 3}
+  m_PrefabInstance: {fileID: 2006563553}
+  m_PrefabAsset: {fileID: 0}
 --- !u!1001 &2007739405
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -107719,7 +107780,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 4974846421732262880, guid: 78c7288fb34a2074394dc45f9d13c068, type: 3}
       propertyPath: m_Name
-      value: Pet_Food_Box
+      value: Pet Food Box
       objectReference: {fileID: 0}
     - target: {fileID: 4974846421732262880, guid: 78c7288fb34a2074394dc45f9d13c068, type: 3}
       propertyPath: m_TagString
@@ -108566,7 +108627,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 4645089056589796162, guid: 20e9efc582b9e4114b72997870cb3c96, type: 3}
       propertyPath: m_Name
-      value: BreadBin
+      value: Bread Bin
       objectReference: {fileID: 0}
     - target: {fileID: 4645089056589796162, guid: 20e9efc582b9e4114b72997870cb3c96, type: 3}
       propertyPath: m_TagString
@@ -108827,7 +108888,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 362271778948495978, guid: fcee60bf92be97f45bcd757fe68c58e9, type: 3}
       propertyPath: m_Name
-      value: Book_04 (5)
+      value: Book
       objectReference: {fileID: 0}
     - target: {fileID: 362271778948495978, guid: fcee60bf92be97f45bcd757fe68c58e9, type: 3}
       propertyPath: m_TagString
@@ -109913,7 +109974,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 2412186363330855401, guid: 15e9361f4fef04940a96ab9b030b29fc, type: 3}
       propertyPath: m_Name
-      value: HackSaw1
+      value: HackSaw
       objectReference: {fileID: 0}
     - target: {fileID: 6274465915921928007, guid: 15e9361f4fef04940a96ab9b030b29fc, type: 3}
       propertyPath: m_LocalPosition.x
@@ -109966,7 +110027,7 @@ PrefabInstance:
   serializedVersion: 2
   m_Modification:
     serializedVersion: 3
-    m_TransformParent: {fileID: 0}
+    m_TransformParent: {fileID: 1274078610}
     m_Modifications:
     - target: {fileID: 5856966408972741759, guid: 1e5a94e11d38e4b3e9b0f7f531e14189, type: 3}
       propertyPath: m_Name
@@ -109978,15 +110039,15 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 6056993961353680307, guid: 1e5a94e11d38e4b3e9b0f7f531e14189, type: 3}
       propertyPath: m_LocalPosition.x
-      value: -54.19441
+      value: -14.551899
       objectReference: {fileID: 0}
     - target: {fileID: 6056993961353680307, guid: 1e5a94e11d38e4b3e9b0f7f531e14189, type: 3}
       propertyPath: m_LocalPosition.y
-      value: 0.9572358
+      value: -61.12655
       objectReference: {fileID: 0}
     - target: {fileID: 6056993961353680307, guid: 1e5a94e11d38e4b3e9b0f7f531e14189, type: 3}
       propertyPath: m_LocalPosition.z
-      value: -159.49295
+      value: -178.20107
       objectReference: {fileID: 0}
     - target: {fileID: 6056993961353680307, guid: 1e5a94e11d38e4b3e9b0f7f531e14189, type: 3}
       propertyPath: m_LocalRotation.w
@@ -109994,7 +110055,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 6056993961353680307, guid: 1e5a94e11d38e4b3e9b0f7f531e14189, type: 3}
       propertyPath: m_LocalRotation.x
-      value: 0
+      value: -0
       objectReference: {fileID: 0}
     - target: {fileID: 6056993961353680307, guid: 1e5a94e11d38e4b3e9b0f7f531e14189, type: 3}
       propertyPath: m_LocalRotation.y
@@ -110021,6 +110082,11 @@ PrefabInstance:
     m_AddedGameObjects: []
     m_AddedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 1e5a94e11d38e4b3e9b0f7f531e14189, type: 3}
+--- !u!4 &2044945029 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 6056993961353680307, guid: 1e5a94e11d38e4b3e9b0f7f531e14189, type: 3}
+  m_PrefabInstance: {fileID: 2044945028}
+  m_PrefabAsset: {fileID: 0}
 --- !u!1001 &2048914402
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -110097,7 +110163,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 2748047335250392246, guid: e0fa5f46cd199634fa68027bc87f471f, type: 3}
       propertyPath: m_Name
-      value: FishBowl
+      value: Fish Bowl
       objectReference: {fileID: 0}
     - target: {fileID: 2748047335250392246, guid: e0fa5f46cd199634fa68027bc87f471f, type: 3}
       propertyPath: m_TagString
@@ -110414,7 +110480,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 4105328609708513356, guid: d418aaa5c61427848a2b542c5808ab6e, type: 3}
       propertyPath: m_Name
-      value: Battery_2
+      value: Battery
       objectReference: {fileID: 0}
     - target: {fileID: 4105328609708513356, guid: d418aaa5c61427848a2b542c5808ab6e, type: 3}
       propertyPath: m_TagString
@@ -110510,7 +110576,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 100048, guid: 42bb7bcc3c47f43418c9ccb3b8dde8ef, type: 3}
       propertyPath: m_Name
-      value: Cat
+      value: Salem the Cat
       objectReference: {fileID: 0}
     - target: {fileID: 100048, guid: 42bb7bcc3c47f43418c9ccb3b8dde8ef, type: 3}
       propertyPath: m_TagString
@@ -111736,7 +111802,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 5501463826058496379, guid: a13d069b2efd7874bb438cec39d00001, type: 3}
       propertyPath: m_Name
-      value: Book_03 (7)
+      value: Book
       objectReference: {fileID: 0}
     - target: {fileID: 5501463826058496379, guid: a13d069b2efd7874bb438cec39d00001, type: 3}
       propertyPath: m_TagString
@@ -112524,7 +112590,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 868521138558046649, guid: ace3a1874572a4c2b8746bbd1497ae82, type: 3}
       propertyPath: m_Name
-      value: CardboardBox2 (3)
+      value: Cardboard Box
       objectReference: {fileID: 0}
     - target: {fileID: 868521138558046649, guid: ace3a1874572a4c2b8746bbd1497ae82, type: 3}
       propertyPath: m_TagString
@@ -113014,7 +113080,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 3668038999827414033, guid: 605fc3f4db77744a3b1e3e4e99d210fa, type: 3}
       propertyPath: m_Name
-      value: ToolCabinet
+      value: Tool Cabinet
       objectReference: {fileID: 0}
     - target: {fileID: 7244076738651217472, guid: 605fc3f4db77744a3b1e3e4e99d210fa, type: 3}
       propertyPath: m_LocalPosition.x
@@ -113538,7 +113604,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: 880d66e66aa4ad34f8c1c5f5a617f9b5, type: 3}
       propertyPath: m_Name
-      value: Black_Shoe
+      value: Black Shoe
       objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: 880d66e66aa4ad34f8c1c5f5a617f9b5, type: 3}
       propertyPath: m_TagString
@@ -113883,7 +113949,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: 880d66e66aa4ad34f8c1c5f5a617f9b5, type: 3}
       propertyPath: m_Name
-      value: Black_Shoe
+      value: Black Shoe
       objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: 880d66e66aa4ad34f8c1c5f5a617f9b5, type: 3}
       propertyPath: m_TagString
@@ -114191,7 +114257,6 @@ SceneRoots:
   - {fileID: 415251956}
   - {fileID: 1472900856}
   - {fileID: 28862007}
-  - {fileID: 1218244284}
   - {fileID: 1273005241}
   - {fileID: 1354812564}
   - {fileID: 990792820}
@@ -114236,16 +114301,6 @@ SceneRoots:
   - {fileID: 1746142799}
   - {fileID: 187839787}
   - {fileID: 726311185}
-  - {fileID: 289296229}
-  - {fileID: 2044945028}
-  - {fileID: 928955943}
-  - {fileID: 2006563553}
-  - {fileID: 839600074}
-  - {fileID: 805057009}
-  - {fileID: 376102312}
-  - {fileID: 1773505622}
-  - {fileID: 988082653}
-  - {fileID: 920775125}
   - {fileID: 1430604964}
   - {fileID: 1871155391}
   - {fileID: 284397379}
