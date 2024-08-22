@@ -36,7 +36,8 @@ public class meowScript : MonoBehaviour
             cat.SetActive(true);
             gameObject.SetActive(false);
             other.tag = "Collectable";
-            other.name = "Cat in Carrier";
+            other.name = "Salem the Cat in  Pet Carrier";
+            Destroy(other.gameObject.GetComponent<BoxCollider>());
         }
     }
 }

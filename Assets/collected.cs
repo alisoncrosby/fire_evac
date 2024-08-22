@@ -13,9 +13,17 @@ public class collected : MonoBehaviour
 
     private void OnTriggerEnter(Collider other)
     {
-        if(other.tag == "Collectable")
+        if(other.tag == "Collectable" || other.tag == "Carrier" || other.tag == "Case")
         {
-            itemList += other.gameObject.name + "\n";
+            if(other.gameObject.name == "Cat Carrier" && itemList.Contains("Cat Carrier"))
+            {
+                //don't add cat carrier twice
+            }
+            else
+            {
+
+                itemList += other.gameObject.name + "\n";
+            }
         }
     }
 
