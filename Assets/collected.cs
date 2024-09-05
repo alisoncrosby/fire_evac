@@ -19,7 +19,11 @@ public class collected : MonoBehaviour
             {
                 //don't add cat carrier twice
             }
-            else
+            else if(!itemList.Contains(other.gameObject.name))
+            {
+
+                itemList += other.gameObject.name + "\n";
+            } else if (other.gameObject.name == "Book" || other.gameObject.name == "Notebook" || other.gameObject.name == "Walkie Talkie" || other.gameObject.name == "Battery" || other.gameObject.name == "Plant" || other.gameObject.name == "VHS Tape" || other.gameObject.name == "Clothes")
             {
 
                 itemList += other.gameObject.name + "\n";

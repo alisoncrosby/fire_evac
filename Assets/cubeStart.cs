@@ -28,6 +28,7 @@ public class cubeStart : MonoBehaviour
 
         if(other.tag == "StartBox")
         {
+            Destroy(GameObject.FindGameObjectWithTag("Collected"));
             timer = 0;
         }
     }
