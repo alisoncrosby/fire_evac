@@ -15,18 +15,15 @@ public class collected : MonoBehaviour
     {
         if(other.tag == "Collectable" || other.tag == "Carrier" || other.tag == "Case")
         {
-            if(other.gameObject.name == "Cat Carrier" && itemList.Contains("Cat Carrier"))
+            if(!itemList.Contains(other.gameObject.name))
             {
-                //don't add cat carrier twice
-            }
-            else if(!itemList.Contains(other.gameObject.name))
-            {
-
+                other.tag = "Collected";
                 itemList += other.gameObject.name + "\n";
             } else if (other.gameObject.name == "Book" || other.gameObject.name == "Notebook" || other.gameObject.name == "Walkie Talkie" || other.gameObject.name == "Battery" || other.gameObject.name == "Plant" || other.gameObject.name == "VHS Tape" || other.gameObject.name == "Clothes")
             {
-
+                
                 itemList += other.gameObject.name + "\n";
+                other.tag = "Collected";
             }
         }
     }
