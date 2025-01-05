@@ -12,6 +12,7 @@ public class teleportBox : MonoBehaviour
     public Animator carrier1;
     public Animator carrier2;
     public Animator carrier3;
+    private GameObject temp;
 
     private void Start()
     {
@@ -22,11 +23,14 @@ public class teleportBox : MonoBehaviour
     {
         if(other.tag == "Collectable" && other.gameObject.name != "Salem the Cat" && other.gameObject.name != "Laptop")
         {
-                other.transform.position = teleportSpot.position;
+                temp = Instantiate(other.gameObject, teleportSpot.position, other.transform.rotation) as GameObject;
+                temp.name = other.gameObject.name;
+                Destroy(other.gameObject);
                 packed1.SetTrigger("pack");
                 packed2.SetTrigger("pack");
                 packed3.SetTrigger("pack");
                 GetComponent<ParticleSystem>().Play();
+            
         }
 
         else if(other.gameObject.name == "Salem the Cat" || other.gameObject.name == "Laptop")

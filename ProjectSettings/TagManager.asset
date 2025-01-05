@@ -12,6 +12,7 @@ TagManager:
   - Collected
   - Collectable
   - TeleportSpot
+  - XR
   layers:
   - Default
   - TransparentFX

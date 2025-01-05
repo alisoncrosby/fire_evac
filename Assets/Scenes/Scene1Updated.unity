@@ -46963,6 +46963,14 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.y
       value: -90
       objectReference: {fileID: 0}
+    - target: {fileID: 1361731894682614131, guid: f13bbbc9578242a44953eec81cfb27d4, type: 3}
+      propertyPath: m_TagString
+      value: XR
+      objectReference: {fileID: 0}
+    - target: {fileID: 1361731896215635805, guid: f13bbbc9578242a44953eec81cfb27d4, type: 3}
+      propertyPath: m_TagString
+      value: XR
+      objectReference: {fileID: 0}
     - target: {fileID: 3350549274339389952, guid: f13bbbc9578242a44953eec81cfb27d4, type: 3}
       propertyPath: m_CastShadows
       value: 0
@@ -47039,6 +47047,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: XR Player Character
       objectReference: {fileID: 0}
+    - target: {fileID: 7668830299185360541, guid: f13bbbc9578242a44953eec81cfb27d4, type: 3}
+      propertyPath: m_TagString
+      value: XR
+      objectReference: {fileID: 0}
     - target: {fileID: 7668830299661638213, guid: f13bbbc9578242a44953eec81cfb27d4, type: 3}
       propertyPath: m_LocalRotation.w
       value: 1
@@ -47082,6 +47094,10 @@ PrefabInstance:
     - target: {fileID: 7668830300565591112, guid: f13bbbc9578242a44953eec81cfb27d4, type: 3}
       propertyPath: m_LocalEulerAnglesHint.y
       value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7668830300715375533, guid: f13bbbc9578242a44953eec81cfb27d4, type: 3}
+      propertyPath: m_TagString
+      value: XR
       objectReference: {fileID: 0}
     - target: {fileID: 8208287724312505100, guid: f13bbbc9578242a44953eec81cfb27d4, type: 3}
       propertyPath: m_LocalRotation.w
