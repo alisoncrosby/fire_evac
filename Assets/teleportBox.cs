@@ -8,6 +8,10 @@ public class teleportBox : MonoBehaviour
     private Transform teleportSpot;
     public Animator packed1;
     public Animator packed2;
+    public Animator packed3;
+    public Animator carrier1;
+    public Animator carrier2;
+    public Animator carrier3;
 
     private void Start()
     {
@@ -16,15 +20,20 @@ public class teleportBox : MonoBehaviour
 
     private void OnTriggerEnter(Collider other)
     {
-        if(other.tag == "Collectable")
+        if(other.tag == "Collectable" && other.gameObject.name != "Salem the Cat" && other.gameObject.name != "Laptop")
         {
-            if(other.gameObject.name != "Salem the Cat")
-            {
                 other.transform.position = teleportSpot.position;
                 packed1.SetTrigger("pack");
                 packed2.SetTrigger("pack");
+                packed3.SetTrigger("pack");
                 GetComponent<ParticleSystem>().Play();
-            }
+        }
+
+        else if(other.gameObject.name == "Salem the Cat" || other.gameObject.name == "Laptop")
+        {
+            carrier1.SetTrigger("pack");
+            carrier2.SetTrigger("pack");
+            carrier3.SetTrigger("pack");
         }
     }
 }
