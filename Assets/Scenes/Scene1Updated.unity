@@ -10915,23 +10915,27 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 465532941962004839, guid: 7151e9892abc60a4eb232f86f115d46d, type: 3}
       propertyPath: m_LocalScale.x
-      value: 17.6
+      value: 39.676315
       objectReference: {fileID: 0}
     - target: {fileID: 465532941962004839, guid: 7151e9892abc60a4eb232f86f115d46d, type: 3}
       propertyPath: m_LocalScale.y
-      value: 1.62
+      value: 10.718505
+      objectReference: {fileID: 0}
+    - target: {fileID: 465532941962004839, guid: 7151e9892abc60a4eb232f86f115d46d, type: 3}
+      propertyPath: m_LocalScale.z
+      value: 4.223607
       objectReference: {fileID: 0}
     - target: {fileID: 465532941962004839, guid: 7151e9892abc60a4eb232f86f115d46d, type: 3}
       propertyPath: m_LocalPosition.x
-      value: 0
+      value: -0
       objectReference: {fileID: 0}
     - target: {fileID: 465532941962004839, guid: 7151e9892abc60a4eb232f86f115d46d, type: 3}
       propertyPath: m_LocalPosition.y
-      value: -0.058
+      value: -0.377
       objectReference: {fileID: 0}
     - target: {fileID: 465532941962004839, guid: 7151e9892abc60a4eb232f86f115d46d, type: 3}
       propertyPath: m_LocalPosition.z
-      value: 0
+      value: 0.311
       objectReference: {fileID: 0}
     - target: {fileID: 465532941962004839, guid: 7151e9892abc60a4eb232f86f115d46d, type: 3}
       propertyPath: m_LocalRotation.w
@@ -10967,6 +10971,14 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 954260722006823901, guid: 7151e9892abc60a4eb232f86f115d46d, type: 3}
       propertyPath: m_IsActive
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1602942139845358088, guid: 7151e9892abc60a4eb232f86f115d46d, type: 3}
+      propertyPath: m_CastShadows
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1602942139845358088, guid: 7151e9892abc60a4eb232f86f115d46d, type: 3}
+      propertyPath: m_ReceiveShadows
       value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 1602942139845358088, guid: 7151e9892abc60a4eb232f86f115d46d, type: 3}
@@ -21668,7 +21680,7 @@ AudioSource:
   m_audioClip: {fileID: 8300000, guid: 84cb6df823ae94b378e8855b31ebbd17, type: 3}
   m_PlayOnAwake: 1
   m_Volume: 0.7
-  m_Pitch: 0.75
+  m_Pitch: 0.7
   Loop: 0
   Mute: 0
   Spatialize: 0
