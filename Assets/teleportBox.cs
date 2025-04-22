@@ -21,7 +21,7 @@ public class teleportBox : MonoBehaviour
 
     private void OnTriggerEnter(Collider other)
     {
-        if(other.tag == "Collectable" && other.gameObject.name != "Salem the Cat" && other.gameObject.name != "Laptop")
+        if(other.tag == "Collectable" && other.gameObject.name != "Salem the Cat")
         {
                 temp = Instantiate(other.gameObject, teleportSpot.position, other.transform.rotation) as GameObject;
                 temp.name = other.gameObject.name;
@@ -33,7 +33,7 @@ public class teleportBox : MonoBehaviour
             
         }
 
-        else if(other.gameObject.name == "Salem the Cat" || other.gameObject.name == "Laptop")
+        else if(other.gameObject.name == "Salem the Cat")
         {
             carrier1.SetTrigger("pack");
             carrier2.SetTrigger("pack");
